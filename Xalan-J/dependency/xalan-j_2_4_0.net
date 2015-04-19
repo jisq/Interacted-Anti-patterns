@@ -1,0 +1,3705 @@
+*Vertics: 660
+6,org.apache.xalan.extensions.ExtensionHandler
+54,org.apache.xalan.templates.Stylesheet
+55,org.apache.xalan.templates.ElemTemplateElement
+56,org.apache.xml.utils.QName
+57,org.apache.xalan.transformer.TransformerImpl
+67,org.apache.xalan.xsltc.compiler.ElementAvailableCall
+95,org.apache.xalan.xsltc.compiler.util.Type
+97,org.apache.xalan.xsltc.compiler.FunctionCall
+98,org.apache.xalan.xsltc.compiler.QName
+99,org.apache.xalan.xsltc.compiler.LiteralExpr
+100,org.apache.xalan.xsltc.compiler.util.ClassGenerator
+101,org.apache.xalan.xsltc.compiler.util.MethodGenerator
+102,org.apache.xalan.xsltc.compiler.util.ErrorMsg
+103,org.apache.xalan.xsltc.compiler.SymbolTable
+104,org.apache.xalan.xsltc.compiler.util.TypeCheckError
+105,org.apache.xalan.xsltc.compiler.Parser
+124,org.apache.xpath.objects.XStringForChars
+154,org.apache.xml.utils.FastStringBuffer
+156,org.apache.xml.utils.XMLStringFactory
+157,org.apache.xml.utils.XMLCharacterRecognizer
+158,org.apache.xalan.res.XSLMessages
+159,org.apache.xpath.res.XPATHErrorResources
+162,org.apache.xpath.objects.XString
+165,org.xml.sax.SAXException
+189,org.apache.xalan.xsltc.dom.MatchingIterator
+215,org.apache.xalan.xsltc.runtime.BasisLibrary
+218,org.apache.xalan.xsltc.dom.NodeIteratorBase
+236,org.apache.xalan.xsltc.compiler.GenerateIdCall
+255,org.apache.xml.utils.PrefixResolverDefault
+294,org.apache.xml.utils.res.XResources_zh_TW
+298,org.apache.xml.utils.res.XResourceBundle
+302,org.apache.xalan.lib.sql.PooledConnection
+320,org.apache.xpath.functions.FuncContains
+328,org.apache.xpath.XPathContext
+329,org.apache.xpath.XPath
+330,org.apache.xpath.objects.XObject
+331,org.apache.xpath.objects.XBoolean
+333,org.apache.xpath.functions.Function2Args
+342,org.apache.xpath.objects.XNull
+355,org.apache.xpath.NodeSetDTM
+357,org.apache.xpath.objects.XNodeSet
+375,org.apache.xpath.functions.FuncUnparsedEntityURI
+383,org.apache.xpath.functions.FunctionOneArg
+395,org.apache.xpath.functions.FuncLocalPart
+401,org.apache.xpath.functions.FunctionDef1Arg
+410,org.apache.xalan.xsltc.compiler.util.TestGenerator
+444,org.apache.xalan.xsltc.compiler.Template
+462,org.w3c.dom.DOMException
+465,org.apache.xalan.xsltc.compiler.UnparsedEntityUriCall
+478,org.apache.xalan.xsltc.compiler.util.StringType
+479,org.apache.xalan.xsltc.compiler.CastExpr
+485,org.apache.xalan.xsltc.compiler.Expression
+496,org.apache.xpath.patterns.UnionPattern
+533,org.apache.xpath.Expression
+535,org.apache.xpath.XPathVisitor
+536,org.apache.xpath.patterns.StepPattern
+537,org.apache.xpath.patterns.NodeTest
+556,org.xml.sax.helpers.XMLFilterImpl
+648,org.xml.sax.InputSource
+653,org.xml.sax.SAXParseException
+654,org.xml.sax.SAXNotSupportedException
+655,org.xml.sax.SAXNotRecognizedException
+691,org.apache.xalan.xsltc.compiler.LangCall
+706,org.apache.xalan.xsltc.compiler.util.FilterGenerator
+741,org.apache.xalan.processor.TransformerFactoryImpl
+896,org.xml.sax.helpers.XMLReaderFactory
+897,org.apache.xml.utils.TreeWalker
+898,org.apache.xml.utils.SystemIDResolver
+899,org.apache.xml.utils.DefaultErrorHandler
+900,org.apache.xalan.transformer.TransformerIdentityImpl
+901,org.apache.xalan.transformer.TrAXFilter
+902,org.apache.xalan.res.XSLTErrorResources
+903,org.apache.xalan.transformer.XalanProperties
+904,org.apache.xalan.processor.StopParseException
+905,org.apache.xalan.processor.StylesheetPIHandler
+907,org.apache.xpath.DOM2Helper
+908,org.apache.xalan.processor.StylesheetHandler
+909,org.apache.xml.dtm.DTMManager
+935,org.apache.xml.utils.res.XResources_cy
+948,org.apache.xml.utils.res.XResources_ka
+975,org.apache.xalan.xsltc.trax.TransformerImpl
+1193,org.apache.xalan.xsltc.TransletException
+1198,org.apache.xalan.xsltc.dom.DOMImpl
+1199,org.apache.xalan.xsltc.dom.DTDMonitor
+1200,org.apache.xalan.xsltc.runtime.Hashtable
+1201,org.apache.xalan.xsltc.trax.TransformerFactoryImpl
+1202,org.apache.xalan.xsltc.runtime.output.TransletOutputHandlerFactory
+1203,org.apache.xalan.xsltc.runtime.AbstractTranslet
+1205,org.apache.xalan.xsltc.trax.DOM2SAX
+1206,org.apache.xalan.xsltc.trax.XSLTCSource
+1207,org.apache.xalan.xsltc.trax.SAX2TO
+1208,org.apache.xalan.xsltc.trax.DOM2TO
+1286,org.xml.sax.helpers.AttributeListImpl
+1334,org.apache.xalan.xsltc.dom.KeyIndex
+1382,org.apache.xalan.xsltc.dom.BitArray
+1403,org.apache.xalan.xsltc.compiler.KeyCall
+1447,org.apache.xalan.xsltc.compiler.util.Util
+1466,org.apache.xpath.axes.LocPathIterator
+1591,org.apache.xpath.compiler.Compiler
+1593,org.apache.xpath.axes.PredicatedNodeTest
+1595,org.apache.xpath.axes.IteratorPool
+1596,org.apache.xpath.axes.WalkerFactory
+1597,org.apache.xpath.axes.NodeSequence
+1598,org.apache.xpath.VariableStack
+1662,org.apache.xalan.templates.ElemExtensionDecl
+1702,org.apache.xml.utils.NameSpace
+1703,org.apache.xml.utils.StringToStringTable
+1704,org.apache.xml.utils.StringVector
+1705,org.apache.xalan.extensions.ExtensionHandlerGeneral
+1706,org.apache.xalan.extensions.ExtensionsTable
+1707,org.apache.xalan.extensions.ExtensionNamespacesManager
+1708,org.apache.xalan.extensions.ExtensionNamespaceSupport
+1709,org.apache.xalan.templates.ElemExtensionScript
+1710,org.apache.xalan.templates.ElemTextLiteral
+1711,org.apache.xalan.templates.StylesheetRoot
+1713,org.apache.xalan.templates.Constants
+1741,org.apache.xalan.templates.XMLNSDecl
+1753,org.apache.xpath.XPathAPI
+1798,org.apache.xpath.compiler.XPathParser
+1799,org.apache.xml.dtm.ref.DTMNodeIterator
+1800,org.apache.xml.dtm.ref.DTMNodeList
+1801,org.apache.xml.dtm.ref.DTMManagerDefault
+1815,org.apache.xalan.xsltc.compiler.FilterExpr
+1850,org.apache.xalan.xsltc.compiler.util.ReferenceType
+1851,org.apache.xalan.xsltc.compiler.Predicate
+1852,org.apache.xalan.xsltc.compiler.util.NodeSetType
+1866,org.apache.xalan.xsltc.compiler.CeilingCall
+1932,org.apache.xpath.axes.HasPositionalPredChecker
+1944,org.apache.xpath.functions.FuncLast
+1945,org.apache.xpath.functions.FuncPosition
+1946,org.apache.xpath.functions.Function
+1947,org.apache.xpath.objects.XNumber
+1948,org.apache.xpath.operations.Div
+1949,org.apache.xpath.operations.Minus
+1950,org.apache.xpath.operations.Mod
+1951,org.apache.xpath.operations.Mult
+1952,org.apache.xpath.operations.Plus
+1953,org.apache.xpath.operations.Quo
+1954,org.apache.xpath.operations.Variable
+1956,org.apache.xpath.operations.Number
+1961,org.apache.xpath.objects.XMLStringFactoryImpl
+1975,org.apache.xpath.objects.XStringForFSB
+2066,org.apache.xalan.transformer.Counter
+2085,org.apache.xml.utils.NodeVector
+2086,org.apache.xalan.templates.ElemNumber
+2091,org.apache.xalan.xsltc.compiler.RelativeLocationPath
+2096,org.apache.xalan.xsltc.compiler.IdKeyPattern
+2121,org.apache.xalan.xsltc.compiler.LocationPathPattern
+2122,org.apache.xalan.xsltc.compiler.RelativePathPattern
+2123,org.apache.xalan.xsltc.compiler.StepPattern
+2124,org.apache.xalan.xsltc.compiler.IdPattern
+2125,org.apache.xalan.xsltc.compiler.FlowList
+2136,org.apache.xalan.xsltc.compiler.CurrentCall
+2149,org.apache.xpath.operations.Operation
+2165,org.apache.xalan.trace.GenerateEvent
+2166,org.apache.xalan.trace.SelectionEvent
+2167,org.apache.xalan.trace.TracerEvent
+2169,org.apache.xml.utils.synthetic.reflection.Constructor
+2192,org.apache.xml.utils.synthetic.SynthesisException
+2194,org.apache.xml.utils.synthetic.reflection.EntryPoint
+2196,org.apache.xml.utils.synthetic.Class
+2214,org.apache.xml.utils.WrongParserException
+2388,org.apache.xalan.xsltc.compiler.FunctionAvailableCall
+2436,org.apache.xalan.xsltc.runtime.TransletLoader
+2456,org.apache.xml.dtm.DTMAxisTraverser
+2506,org.apache.xml.utils.BoolStack
+2529,org.apache.xalan.templates.AVT
+2596,org.apache.xml.utils.StringBufferPool
+2598,org.apache.xalan.templates.AVTPart
+2599,org.apache.xalan.templates.XSLTVisitor
+2600,org.apache.xalan.templates.AVTPartSimple
+2601,org.apache.xalan.templates.AVTPartXPath
+2622,org.apache.xalan.xsltc.dom.SingleNodeCounter
+2648,org.apache.xalan.xsltc.dom.NodeCounter
+2672,org.apache.xalan.transformer.XSLInfiniteLoopException
+2676,org.apache.xalan.serialize.ElemDesc
+2714,org.apache.xml.utils.StringToIntTable
+2719,org.apache.xalan.xsltc.dom.DupFilterIterator
+2940,org.apache.xalan.xsltc.compiler.util.MethodType
+2941,org.apache.xalan.xsltc.compiler.util.MultiHashtable
+2945,org.apache.xalan.xsltc.compiler.util.ObjectType
+2946,org.apache.xalan.xsltc.compiler.XSLTC
+2947,org.apache.xalan.xsltc.compiler.util.BooleanType
+2948,org.apache.xalan.xsltc.compiler.util.IntType
+2980,org.apache.xpath.compiler.FunctionTable
+3032,org.apache.xpath.compiler.FuncLoader
+3034,org.apache.xpath.compiler.Keywords
+3038,org.apache.xpath.compiler.OpMap
+3094,org.apache.xpath.compiler.OpCodes
+3146,org.apache.xalan.xsltc.compiler.UnsupportedElement
+3171,org.apache.xalan.xsltc.compiler.SyntaxTreeNode
+3172,org.apache.xalan.xsltc.compiler.Fallback
+3188,org.apache.xpath.functions.FuncLang
+3225,org.apache.xalan.transformer.ResultTreeHandler
+3423,org.apache.xalan.templates.ElemTemplate
+3424,org.apache.xalan.trace.TraceManager
+3425,org.apache.xml.utils.MutableAttrListImpl
+3426,org.apache.xml.utils.ObjectPool
+3427,org.xml.sax.helpers.NamespaceSupport
+3428,org.apache.xml.utils.NamespaceSupport2
+3429,org.apache.xalan.transformer.QueuedEvents
+3433,org.apache.xml.dtm.ref.dom2dtm.DOM2DTM
+3435,org.apache.xalan.transformer.ClonerToResultTree
+3436,org.xml.sax.helpers.AttributesImpl
+3437,org.apache.xalan.transformer.SerializerSwitcher
+3667,org.apache.xalan.xsltc.compiler.CompilerException
+3668,org.apache.xalan.xsltc.trax.TemplatesHandlerImpl
+3669,org.apache.xalan.xsltc.trax.Util
+3670,org.apache.xalan.xsltc.trax.TemplatesImpl
+3671,org.apache.xalan.xsltc.trax.TransformerHandlerImpl
+3672,org.apache.xalan.xsltc.trax.TrAXFilter
+3725,org.apache.xpath.objects.XObjectFactory
+3741,org.apache.xpath.axes.OneStepIterator
+3744,org.apache.xml.utils.WrappedRuntimeException
+3745,org.apache.xpath.objects.XNodeSetForDOM
+3758,org.apache.xalan.xsltc.compiler.RoundCall
+3773,org.apache.xalan.xsltc.compiler.XslElement
+3829,org.apache.xalan.xsltc.compiler.Instruction
+3830,org.apache.xalan.xsltc.compiler.AttributeValueTemplate
+3831,org.apache.xalan.xsltc.compiler.UseAttributeSets
+3832,org.apache.xalan.xsltc.compiler.XslAttribute
+3860,org.apache.xalan.processor.WhitespaceInfoPaths
+3868,org.apache.xalan.templates.WhiteSpaceInfo
+3872,org.apache.xpath.axes.BasicTestIterator
+3894,org.apache.xpath.axes.ChildTestIterator
+3908,org.apache.xpath.axes.ChildIterator
+3930,org.apache.xalan.xsltc.cmdline.getopt.GetOptsException
+3935,org.apache.xalan.extensions.ExtensionHandlerJavaPackage
+4006,org.apache.xalan.extensions.ExtensionHandlerJava
+4007,org.apache.xalan.extensions.XSLProcessorContext
+4008,org.apache.xalan.templates.ElemExtensionCall
+4009,org.apache.xalan.extensions.MethodResolver
+4108,org.apache.xpath.SourceTree
+4115,org.apache.xalan.templates.ElemIf
+4247,org.apache.xalan.xsltc.util.IntegerArray
+4292,org.apache.xalan.xsltc.compiler.ValueOf
+4427,org.apache.xalan.xsltc.dom.DOMAdapter
+4428,org.apache.xalan.xsltc.runtime.MessageHandler
+4429,org.apache.xalan.xsltc.runtime.StringValueHandler
+4430,org.apache.xalan.xsltc.runtime.Parameter
+4455,org.apache.xalan.serialize.CharInfo
+4496,org.apache.xml.utils.CharKey
+4503,org.apache.xpath.operations.Bool
+4508,org.apache.xpath.operations.UnaryOperation
+4513,org.apache.xalan.templates.ElemWithParam
+4541,org.apache.xpath.objects.XRTreeFrag
+4542,org.apache.xalan.templates.ElemVariable
+4622,org.apache.xalan.xsltc.compiler.CUP$XPathParser$actions
+5212,org.apache.xalan.xsltc.compiler.XPathParser
+5283,org.apache.xalan.xsltc.compiler.Pattern
+5284,org.apache.xalan.xsltc.compiler.FilterParentPath
+5285,org.apache.xalan.xsltc.compiler.Step
+5286,org.apache.xalan.xsltc.compiler.ParentLocationPath
+5288,org.apache.xalan.xsltc.compiler.NameCall
+5289,org.apache.xalan.xsltc.compiler.EqualityExpr
+5290,org.apache.xalan.xsltc.compiler.ConcatCall
+5291,org.apache.xalan.xsltc.compiler.NumberCall
+5292,org.apache.xalan.xsltc.compiler.DocumentCall
+5293,org.apache.xalan.xsltc.compiler.StringCall
+5294,org.apache.xalan.xsltc.compiler.BooleanCall
+5295,org.apache.xalan.xsltc.compiler.NotCall
+5296,org.apache.xalan.xsltc.compiler.FormatNumberCall
+5297,org.apache.xalan.xsltc.compiler.FloorCall
+5298,org.apache.xalan.xsltc.compiler.ContainsCall
+5299,org.apache.xalan.xsltc.compiler.StringLengthCall
+5300,org.apache.xalan.xsltc.compiler.StartsWithCall
+5301,org.apache.xalan.xsltc.compiler.LocalNameCall
+5302,org.apache.xalan.xsltc.compiler.NamespaceUriCall
+5303,org.apache.xalan.xsltc.compiler.BooleanExpr
+5304,org.apache.xalan.xsltc.compiler.PositionCall
+5305,org.apache.xalan.xsltc.compiler.LastCall
+5306,org.apache.xalan.xsltc.compiler.Variable
+5307,org.apache.xalan.xsltc.compiler.VariableRef
+5308,org.apache.xalan.xsltc.compiler.Param
+5309,org.apache.xalan.xsltc.compiler.ParameterRef
+5310,org.apache.xalan.xsltc.compiler.UnresolvedRef
+5311,org.apache.xalan.xsltc.compiler.RealExpr
+5312,org.apache.xalan.xsltc.compiler.IntExpr
+5313,org.apache.xalan.xsltc.compiler.AbsoluteLocationPath
+5314,org.apache.xalan.xsltc.compiler.FilteredAbsoluteLocationPath
+5315,org.apache.xalan.xsltc.compiler.UnionPathExpr
+5316,org.apache.xalan.xsltc.compiler.UnaryOpExpr
+5317,org.apache.xalan.xsltc.compiler.BinOpExpr
+5318,org.apache.xalan.xsltc.compiler.RelationalExpr
+5319,org.apache.xalan.xsltc.compiler.LogicalExpr
+5320,org.apache.xalan.xsltc.compiler.ProcessingInstructionPattern
+5321,org.apache.xalan.xsltc.compiler.AncestorPattern
+5322,org.apache.xalan.xsltc.compiler.ParentPattern
+5323,org.apache.xalan.xsltc.compiler.KeyPattern
+5324,org.apache.xalan.xsltc.compiler.AbsolutePathPattern
+5325,org.apache.xalan.xsltc.compiler.AlternativePattern
+5413,org.apache.xalan.xsltc.compiler.IllegalCharException
+5432,org.apache.xalan.transformer.NodeSorter
+5498,org.apache.xalan.transformer.NodeSortKey
+5707,org.apache.xml.utils.SuballocatedIntVector
+5708,org.apache.xml.utils.IntStack
+5709,org.apache.xml.dtm.ref.DTMDefaultBaseIterators
+5711,org.apache.xml.dtm.ref.ExpandedNameTable
+5715,org.apache.xml.dtm.ref.dom2dtm.DOM2DTMdefaultNamespaceDeclarationNode
+5818,org.apache.xml.utils.XMLChar
+6011,org.apache.xalan.xsltc.compiler.When
+6055,org.apache.xalan.templates.ElemExsltFuncResult
+6068,org.apache.xpath.objects.XRTreeFragSelectWrapper
+6069,org.apache.xalan.templates.ElemExsltFunction
+6176,org.apache.xalan.serialize.WriterToASCI
+6197,org.apache.xml.dtm.DTMDOMException
+6205,org.apache.xpath.functions.FuncCurrent
+6225,org.apache.xalan.extensions.ExtensionHandlerExsltFunction
+6274,org.apache.xalan.xsltc.compiler.LiteralElement
+6348,org.apache.xalan.xsltc.compiler.LiteralAttribute
+6380,org.apache.xalan.xsltc.util.JavaCupRedirect
+6422,org.apache.xalan.xsltc.compiler.util.CompareGenerator
+6447,org.apache.xalan.xsltc.runtime.TransletOutputBase
+6451,org.apache.xpath.axes.MatchPatternIterator
+6479,org.apache.xpath.compiler.PsuedoNames
+6509,org.apache.xpath.NodeSet
+6686,org.apache.xalan.xsltc.runtime.output.SAXXMLOutput
+6751,org.apache.xalan.xsltc.runtime.output.SAXOutput
+6790,org.apache.xpath.SourceTreeManager
+6854,org.apache.xml.utils.SAXSourceLocator
+6858,org.apache.xalan.lib.NodeInfo
+6900,org.apache.xml.dtm.ref.DTMNodeProxy
+6905,org.apache.xpath.axes.FilterExprWalker
+6946,org.apache.xalan.templates.FuncKey
+6947,org.apache.xpath.axes.AxesWalker
+6948,org.apache.xpath.axes.WalkingIterator
+6949,org.apache.xpath.axes.FilterExprIteratorSimple
+7003,org.apache.xalan.xsltc.compiler.AttributeSet
+7034,org.apache.xml.utils.res.XResources_ja_JP_A
+7063,org.apache.xalan.xsltc.compiler.Stylesheet
+7071,org.apache.xalan.processor.ProcessorCharacters
+7098,org.apache.xalan.templates.ElemText
+7099,org.apache.xalan.processor.XSLTElementProcessor
+7134,org.apache.xpath.objects.XBooleanStatic
+7171,org.apache.xalan.xsltc.compiler.VariableBase
+7172,org.apache.xalan.xsltc.compiler.util.NodeType
+7173,org.apache.xalan.xsltc.compiler.util.RealType
+7236,org.apache.xalan.xsltc.dom.NodeSortRecord
+7444,org.apache.xpath.FoundIndex
+7447,org.apache.xalan.templates.ElemValueOf
+7503,org.xml.sax.helpers.ParserFactory
+7504,org.xml.sax.helpers.ParserAdapter
+7508,org.apache.xml.dtm.ref.IncrementalSAXSource_Filter
+7638,org.apache.xml.dtm.ref.CoroutineManager
+7728,org.apache.xalan.xsltc.compiler.If
+7750,org.apache.xalan.processor.ProcessorStylesheetDoc
+7752,org.apache.xalan.xsltc.compiler.Import
+7781,org.apache.xalan.xsltc.compiler.TopLevelElement
+7804,org.apache.xalan.processor.XSLTElementDef
+7986,org.apache.xalan.processor.XSLTAttributeDef
+7987,org.apache.xalan.processor.XSLTSchema
+8064,org.apache.xalan.transformer.TreeWalker2Result
+8087,org.apache.xml.dtm.ref.DTMTreeWalker
+8088,org.apache.xpath.DOMHelper
+8097,org.apache.xalan.xsltc.compiler.SimpleAttributeValue
+8110,org.apache.xalan.xsltc.compiler.AttributeValue
+8122,org.apache.xalan.xsltc.compiler.NameBase
+8704,org.apache.xpath.axes.UnionPathIterator
+8717,org.apache.xalan.processor.ProcessorTemplate
+8721,org.apache.xalan.processor.ProcessorTemplateElem
+8790,org.apache.xalan.lib.PipeDocument
+8838,org.apache.xalan.templates.ElemLiteralResult
+8840,org.apache.xalan.serialize.SerializerFactory
+8841,org.apache.xalan.templates.OutputProperties
+8855,org.apache.xalan.xsltc.compiler.WithParam
+8882,org.apache.xalan.xsltc.compiler.util.NodeSortRecordFactGenerator
+8937,org.apache.xalan.xsltc.compiler.util.ResultTreeType
+8942,org.apache.xalan.xsltc.compiler.util.VoidType
+8981,org.apache.xalan.trace.EndSelectionEvent
+8991,org.apache.xml.utils.AttList
+9047,org.apache.xml.utils.DOMBuilder
+9221,org.apache.xalan.xsltc.compiler.Text
+9288,org.apache.xalan.xsltc.compiler.Output
+9337,org.apache.xalan.xsltc.compiler.DecimalFormatting
+9371,org.apache.xalan.xsltc.runtime.AttributeList
+9376,org.apache.xpath.functions.FuncTranslate
+9388,org.apache.xpath.functions.Function3Args
+9392,org.apache.xml.utils.synthetic.TestDriver
+9414,org.apache.xml.utils.synthetic.reflection.Method
+9429,org.apache.xalan.xsltc.compiler.TransletOutput
+9449,org.apache.xalan.templates.ElemOtherwise
+9455,org.apache.xalan.templates.ElemForEach
+9517,org.apache.xalan.templates.ElemSort
+9663,org.apache.xalan.xsltc.compiler.Choose
+9664,org.apache.xalan.xsltc.compiler.CopyOf
+9717,org.apache.xpath.functions.FuncId
+9754,org.apache.xalan.xsltc.compiler.NamespaceAlias
+9766,org.apache.xalan.templates.DecimalFormatProperties
+9987,org.apache.xalan.xsltc.runtime.Node
+10048,org.apache.xml.utils.UnImplNode
+10239,org.apache.xmlcommons.Version
+10247,org.apache.xpath.operations.Lte
+10253,org.apache.xml.utils.ListingErrorHandler
+10401,org.apache.xalan.transformer.KeyRefIterator
+10431,org.apache.xalan.templates.KeyDeclaration
+10432,org.apache.xalan.transformer.KeyIterator
+10486,org.apache.xml.utils.res.XResources_he
+10510,org.apache.xalan.xsltc.compiler.ProcessingInstruction
+10586,org.apache.xalan.templates.ElemElement
+10631,org.apache.xalan.templates.ElemUse
+10632,org.apache.xalan.transformer.MsgMgr
+10644,org.apache.xalan.xsltc.compiler.ApplyTemplates
+10676,org.apache.xalan.xsltc.compiler.Mode
+10677,org.apache.xalan.xsltc.compiler.Sort
+10708,org.apache.xalan.templates.ElemAttributeSet
+10714,org.apache.xalan.xsltc.compiler.TestSeq
+10855,org.apache.xalan.xsltc.compiler.VariableRefBase
+10879,org.apache.xalan.xsltc.dom.FilterIterator
+11098,org.apache.xml.utils.synthetic.reflection.Field
+11106,org.apache.xalan.xsltc.cmdline.getopt.MissingOptArgException
+11111,org.apache.xpath.operations.Neg
+11117,org.apache.xalan.xsltc.dom.CurrentNodeListIterator
+11168,org.apache.xalan.serialize.SerializerToXML
+11486,org.apache.xalan.serialize.Encodings
+11488,org.apache.xalan.serialize.WriterToUTF8
+11489,org.apache.xalan.serialize.WriterToUTF8Buffered
+11566,org.apache.xalan.xsltc.dom.LoadDocument
+11607,org.apache.xalan.xsltc.dom.MultiDOM
+11608,org.apache.xalan.xsltc.dom.UnionIterator
+11609,org.apache.xalan.xsltc.dom.SingletonIterator
+11624,org.apache.xalan.xsltc.compiler.util.MatchGenerator
+11657,org.apache.xalan.templates.ElemCopyOf
+11692,org.apache.xml.utils.res.XResources_ja_JP_HA
+11716,org.apache.xalan.templates.StylesheetComposed
+11788,org.xml.sax.helpers.DefaultHandler
+11857,org.apache.xpath.functions.WrongNumberArgsException
+11907,org.apache.xalan.xsltc.compiler.Key
+11947,org.apache.xalan.xsltc.compiler.Whitespace
+12120,org.apache.xalan.templates.XUnresolvedVariableSimple
+12275,org.apache.xalan.serialize.Method
+12311,org.apache.xalan.extensions.ExtensionHandlerJavaClass
+12517,org.apache.xml.utils.NSInfo
+12518,org.apache.xpath.axes.DescendantIterator
+12519,org.apache.xml.dtm.ref.sax2dtm.SAX2RTFDTM
+12523,org.apache.xpath.axes.OneStepIteratorForward
+12551,org.apache.xalan.templates.ElemVariablePsuedo
+12942,org.apache.xml.utils.URI
+12953,org.apache.xpath.axes.FilterExprIterator
+13023,org.apache.xml.dtm.DTMException
+13075,org.apache.xalan.xsltc.compiler.Attribute
+13305,org.apache.xpath.operations.And
+13333,org.apache.xalan.Version
+13343,org.apache.xalan.processor.XSLProcessorVersion
+13350,org.apache.xalan.lib.sql.DefaultConnectionPool
+13429,org.apache.xpath.axes.AttributeIterator
+13439,org.apache.xalan.xsltc.dom.AbsoluteIterator
+13675,org.apache.xalan.templates.ElemAttribute
+13876,org.apache.xalan.templates.NamespaceAlias
+13877,org.apache.xalan.templates.ElemParam
+13891,org.apache.xpath.patterns.ContextMatchStepPattern
+14056,org.apache.xalan.xsltc.compiler.util.AttributeSetMethodGenerator
+14077,org.apache.xalan.xsltc.trax.SAX2DOM
+14242,org.apache.xalan.xsltc.compiler.util.NumberType
+14464,org.apache.xpath.functions.FuncFloor
+14469,org.apache.xalan.xsltc.compiler.Include
+14595,org.apache.xalan.xsltc.compiler.ApplyImports
+14637,org.apache.xpath.functions.FuncExtFunctionAvailable
+14707,org.apache.xml.dtm.DTMConfigurationException
+14724,org.apache.xalan.xsltc.compiler.util.ErrorMessages_no
+14728,org.apache.xalan.xsltc.compiler.util.ErrorMessages
+14746,org.w3c.dom.events.EventException
+14748,org.apache.xalan.transformer.CountersTable
+14784,org.apache.xpath.Arg
+15057,org.apache.xpath.functions.FuncStartsWith
+15263,org.apache.xalan.lib.sql.DTMDocument
+15530,org.apache.xalan.lib.sql.ObjectArray
+15586,org.xml.sax.HandlerBase
+15634,org.apache.xpath.functions.FuncNumber
+15664,org.apache.xalan.lib.ExsltMath
+15703,org.apache.xalan.xslt.EnvironmentCheck
+15706,org.apache.xalan.templates.ElemCallTemplate
+15804,org.apache.xml.utils.Trie
+15828,org.apache.xalan.xsltc.runtime.output.OutputBase
+15879,org.apache.xalan.templates.ElemWhen
+15937,org.apache.xalan.transformer.StackGuard
+16008,org.apache.xpath.functions.FuncQname
+16037,org.apache.xalan.xsltc.runtime.DefaultSAXOutputHandler
+16038,org.apache.xalan.xsltc.runtime.output.StreamOutput
+16039,org.apache.xalan.xsltc.runtime.output.StreamUnknownOutput
+16040,org.apache.xalan.xsltc.runtime.output.StreamXMLOutput
+16041,org.apache.xalan.xsltc.runtime.output.StreamHTMLOutput
+16042,org.apache.xalan.xsltc.runtime.output.StreamTextOutput
+16043,org.apache.xalan.xsltc.runtime.output.SAXHTMLOutput
+16044,org.apache.xalan.xsltc.runtime.output.SAXTextOutput
+16045,org.apache.xalan.xsltc.runtime.TextOutput
+16151,org.xml.sax.helpers.LocatorImpl
+16154,org.apache.xalan.transformer.TransformerHandlerImpl
+16277,org.apache.xml.dtm.ref.sax2dtm.SAX2DTM
+16399,org.apache.xpath.operations.Gte
+16426,org.apache.xml.dtm.ref.DTMDefaultBase
+16636,org.apache.xml.utils.SuballocatedByteVector
+16950,org.apache.xml.utils.IntVector
+16951,org.apache.xml.dtm.ref.DTMStringPool
+16954,org.apache.xml.dtm.ref.NodeLocator
+17083,org.apache.xalan.processor.ProcessorPreserveSpace
+17103,org.apache.xalan.processor.ProcessorOutputElem
+17183,org.apache.xalan.xsltc.compiler.Otherwise
+17195,org.apache.xpath.patterns.FunctionPattern
+17364,org.apache.xalan.xsltc.trax.SmartTransformerFactoryImpl
+17482,org.apache.xalan.lib.sql.ConnectionPoolManager
+17541,org.apache.xalan.client.XSLTProcessorApplet
+17691,org.apache.xpath.functions.FuncSum
+17700,org.apache.xml.dtm.ref.DTMNamedNodeMap
+17802,org.apache.xml.utils.res.XResources_el
+17859,org.apache.xalan.templates.RedundentExprEliminator
+17892,org.apache.xalan.transformer.KeyManager
+17975,org.apache.xalan.serialize.EncodingInfo
+18023,org.apache.xpath.functions.FuncDoclocation
+18101,org.apache.xpath.functions.FuncCeiling
+18193,org.apache.xpath.functions.FuncString
+18430,org.apache.xml.dtm.ref.DTMAxisIteratorBase
+18485,org.apache.xalan.xsltc.compiler.sym
+18598,org.apache.xalan.xsltc.dom.AnyNodeCounter
+18646,org.apache.xpath.operations.String
+18724,org.apache.xalan.xsltc.dom.NodeSortRecordFactory
+18774,org.apache.xalan.xsltc.dom.SortingIterator
+19026,org.apache.xalan.templates.ElemUnknown
+19027,org.apache.xpath.functions.FuncExtFunction
+19028,org.apache.xalan.extensions.ExpressionVisitor
+19029,org.apache.xalan.templates.FuncDocument
+19030,org.apache.xalan.templates.FuncFormatNumb
+19031,org.apache.xalan.processor.ProcessorStylesheetElement
+19226,org.apache.xml.dtm.ref.DTMSafeStringPool
+19269,org.apache.xalan.xsltc.trax.OutputSettings
+19282,org.xml.sax.helpers.XMLReaderAdapter
+19356,org.apache.xalan.xslt.Process
+19451,org.apache.xalan.trace.PrintTraceListener
+19464,org.apache.xalan.processor.ProcessorLRE
+19644,org.apache.xpath.functions.FuncSubstringAfter
+20025,org.apache.xalan.xsltc.compiler.util.NodeSortRecordGenerator
+20026,org.apache.xalan.xsltc.compiler.ForEach
+20035,org.apache.xalan.xsltc.compiler.Number
+20116,org.apache.xalan.xsltc.compiler.util.NodeCounterGenerator
+20189,org.apache.xpath.XPathException
+20192,org.apache.xpath.functions.FuncBoolean
+20225,org.apache.xalan.serialize.SerializerToHTML
+20340,org.apache.xalan.templates.XUnresolvedVariable
+20371,org.apache.xml.utils.res.XResources_ja_JP_I
+20389,org.apache.xpath.functions.FuncNamespace
+20397,org.apache.xpath.operations.Gt
+20404,org.apache.xalan.xsltc.cmdline.getopt.GetOpt
+20464,org.apache.xalan.xsltc.cmdline.getopt.IllegalArgumentException
+20843,org.apache.xpath.axes.SelfIteratorNoPredicate
+20844,org.apache.xpath.operations.VariableSafeAbsRef
+20845,org.apache.xalan.templates.AbsPathChecker
+20846,org.apache.xalan.templates.VarNameCollector
+20865,org.apache.xalan.xsltc.compiler.Message
+21190,org.apache.xalan.xsltc.dom.StepIterator
+21199,org.apache.xalan.transformer.NumeratorFormatter
+21238,org.apache.xalan.transformer.DecimalToRoman
+21245,org.apache.xpath.XPathProcessorException
+21573,org.apache.xalan.processor.ProcessorExsltFuncResult
+21582,org.apache.xalan.templates.ElemFallback
+21780,org.apache.xml.utils.Context2
+21840,org.apache.xml.utils.PrefixForUriEnumerator
+21890,org.apache.xpath.operations.Or
+22366,org.apache.xpath.functions.FuncNot
+22382,org.apache.xpath.functions.FuncSystemProperty
+22525,org.apache.xml.utils.synthetic.JavaUtils
+22553,org.apache.xalan.xsltc.cmdline.Compile
+22632,org.apache.xalan.xsltc.compiler.util.RtMethodGenerator
+22824,org.apache.xpath.operations.NotEquals
+22888,org.apache.xml.dtm.ref.DTMDocumentImpl
+23237,org.apache.xml.dtm.ref.ChunkedIntArray
+23551,org.apache.xalan.xsltc.compiler.XPathLexer
+23774,org.apache.xalan.templates.TemplateList
+23775,org.apache.xalan.templates.ElemApplyTemplates
+23820,org.apache.xpath.axes.WalkingIteratorSorted
+23904,org.apache.xalan.processor.ProcessorText
+23917,org.apache.xalan.processor.ProcessorImport
+23920,org.apache.xalan.processor.ProcessorInclude
+23932,org.apache.xalan.lib.sql.QueryParameter
+23999,org.apache.xalan.xsltc.runtime.Attributes
+24092,org.apache.xpath.axes.RTFIterator
+24095,org.apache.xpath.axes.ReverseAxesWalker
+24128,org.apache.xpath.functions.FuncGenerateId
+24681,org.apache.xml.dtm.ref.IncrementalSAXSource_Xerces
+24688,org.apache.xml.utils.StringToStringTableVector
+24972,org.apache.xml.utils.SerializableLocatorImpl
+25015,org.apache.xalan.templates.ElemChoose
+25042,org.apache.xalan.templates.ElemApplyImport
+25053,org.apache.xpath.functions.FuncConcat
+25061,org.apache.xpath.functions.FunctionMultiArgs
+25066,org.apache.xalan.templates.ElemMessage
+25077,org.apache.xalan.templates.ElemComment
+25121,org.apache.xml.utils.res.XResources_ja_JP_HI
+25168,org.apache.xpath.compiler.XPathDumper
+25251,org.apache.xalan.transformer.KeyTable
+25291,org.apache.xalan.processor.ProcessorStripSpace
+25304,org.apache.xalan.transformer.TransformSnapshotImpl
+25362,org.apache.xalan.processor.ProcessorKey
+25786,org.apache.xpath.functions.FuncFalse
+25924,org.apache.xalan.transformer.ResultNameSpace
+26265,org.apache.xalan.processor.ProcessorUnknown
+26266,org.apache.xalan.templates.ElemPI
+26267,org.apache.xalan.templates.ElemCopy
+26268,org.apache.xalan.processor.ProcessorExsltFunction
+26269,org.apache.xalan.processor.ProcessorDecimalFormat
+26270,org.apache.xalan.processor.ProcessorAttributeSet
+26271,org.apache.xalan.processor.ProcessorGlobalVariableDecl
+26272,org.apache.xalan.processor.ProcessorGlobalParamDecl
+26273,org.apache.xalan.processor.ProcessorNamespaceAlias
+26336,org.apache.xalan.serialize.SerializerToText
+26426,org.apache.xalan.xsltc.runtime.SAXAdapter
+26491,org.apache.xalan.xsltc.compiler.ArgumentList
+26538,org.apache.xml.utils.ElemDesc
+26594,org.apache.xalan.xsltc.dom.MultipleNodeCounter
+26854,org.apache.xml.utils.Hashtree2Node
+27049,org.apache.xalan.xsltc.compiler.Comment
+27344,org.apache.xpath.CachedXPathAPI
+27392,org.apache.xalan.xsltc.dom.NthIterator
+27416,org.apache.xpath.functions.FuncRound
+27458,org.apache.xml.dtm.ref.CustomStringPool
+27720,org.apache.xpath.compiler.Lexer
+27724,org.apache.xalan.lib.ExsltCommon
+27731,org.apache.xalan.lib.Extensions
+27736,org.apache.xalan.xsltc.ProcessorVersion
+28047,org.apache.xpath.functions.FuncExtElementAvailable
+28159,org.apache.xalan.xsltc.dom.ReverseIterator
+28400,org.apache.xalan.xsltc.dom.DocumentCache
+28600,org.apache.xalan.lib.sql.SQLDocument
+28816,org.apache.xalan.xsltc.compiler.util.StringStack
+29209,org.apache.xpath.functions.FuncTrue
+29615,org.apache.xalan.xsltc.compiler.util.NamedMethodGenerator
+29870,org.apache.xml.dtm.ref.DTMDefaultBaseTraversers
+29875,org.apache.xml.utils.res.XResources_hy
+29879,org.apache.xalan.templates.ElemEmpty
+30015,org.apache.xml.utils.res.XResources_zh_CN
+30148,org.apache.xalan.lib.Redirect
+30905,org.apache.xalan.xsltc.dom.FilteredStepIterator
+30917,org.apache.xalan.xsltc.dom.EmptyFilter
+30921,org.apache.xpath.operations.Lt
+30981,org.apache.xpath.functions.FuncSubstring
+31025,org.apache.xalan.xsltc.compiler.Copy
+31276,org.apache.xalan.xsltc.compiler.CallTemplate
+31298,org.apache.xpath.axes.UnionChildIterator
+31395,org.apache.xpath.functions.FuncCount
+31412,org.apache.xalan.xsltc.runtime.ErrorMessages_no
+31416,org.apache.xalan.xsltc.runtime.ErrorMessages
+31476,org.apache.xml.utils.res.XResources_en
+32938,org.apache.xpath.functions.FuncSubstringBefore
+32945,org.apache.xalan.templates.TemplateSubPatternAssociation
+33086,org.apache.xalan.lib.sql.SQLErrorDocument
+33396,org.apache.xpath.operations.Equals
+33426,org.apache.xalan.lib.ExsltSets
+33554,org.apache.xpath.functions.FuncNormalizeSpace
+33628,org.w3c.dom.ranges.RangeException
+33716,org.apache.xpath.objects.Comparator
+33723,org.apache.xpath.objects.EqualComparator
+33730,org.apache.xpath.objects.GreaterThanComparator
+33737,org.apache.xpath.objects.GreaterThanOrEqualComparator
+33744,org.apache.xpath.objects.LessThanComparator
+33751,org.apache.xpath.objects.LessThanOrEqualComparator
+33758,org.apache.xpath.objects.NotEqualComparator
+33999,org.apache.xalan.lib.sql.XConnection
+34151,org.apache.xalan.xsltc.compiler.util.SlotAllocator
+34379,org.apache.xalan.xsltc.cmdline.Transform
+34455,org.apache.xpath.functions.FuncStringLength
+34993,org.apache.xalan.lib.ExsltDatetime
+35517,org.apache.xalan.xsltc.runtime.HashtableEntry
+*Edges: 3043
+17541 158 2
+19028 1707 1
+19028 1711 3
+19028 19027 1
+19028 535 1
+6 54 1
+6 57 1
+6 55 1
+6225 330 1
+6225 162 1
+6225 56 4
+6225 328 2
+6225 6 2
+6225 1711 3
+6225 6069 3
+6225 55 9
+6225 1598 2
+1705 158 6
+1705 898 1
+1705 330 1
+1705 57 2
+1705 21245 1
+1705 20189 1
+1705 328 1
+1705 1800 1
+1705 1704 6
+1705 54 1
+1705 4007 2
+1705 6 2
+1705 55 1
+4006 6 2
+12311 54 1
+12311 4007 2
+12311 4006 8
+12311 6 1
+12311 330 2
+12311 57 1
+12311 55 1
+12311 4009 5
+3935 158 3
+3935 4006 10
+3935 330 1
+3935 57 1
+3935 4009 7
+3935 54 1
+3935 6 5
+3935 4007 2
+3935 55 1
+1708 6 2
+1707 6 1
+1707 1708 15
+1706 158 1
+1706 1711 3
+1706 6 5
+1706 21245 1
+1706 1708 2
+4009 158 1
+4009 4541 4
+4009 1799 1
+4009 330 24
+4009 162 1
+4007 357 5
+4007 4541 1
+4007 12518 1
+4007 330 3
+4007 57 8
+4007 162 1
+4007 56 2
+4007 3741 1
+4007 328 5
+4007 3225 4
+4007 165 1
+4007 54 4
+4007 3435 1
+27724 6509 1
+27724 1799 1
+27724 27731 1
+34993 1947 31
+34993 331 3
+34993 330 3
+34993 162 30
+15664 6509 22
+33426 8088 4
+33426 6509 28
+33426 27731 3
+27731 158 1
+27731 15703 1
+27731 6509 36
+27731 330 1
+27731 329 2
+27731 328 3
+27731 331 1
+27731 1947 1
+27731 26854 1
+27731 654 1
+6858 6900 16
+8790 898 2
+8790 8840 1
+8790 57 2
+8790 4008 3
+8790 8838 3
+8790 328 1
+8790 4007 8
+8790 55 3
+8790 896 1
+8790 2529 3
+30148 165 3
+30148 4007 27
+30148 330 1
+30148 329 2
+30148 57 7
+30148 4008 12
+30148 328 1
+17482 158 1
+15263 5709 4
+15263 15530 4
+15263 5707 38
+15263 16426 68
+15263 909 2
+15263 5711 2
+15263 156 2
+15263 29870 1
+13350 158 4
+13350 302 16
+28600 15530 1
+28600 5707 2
+28600 909 1
+28600 5711 22
+28600 15263 51
+33086 909 2
+33086 5711 4
+33086 15263 10
+33999 17482 4
+33999 1801 6
+33999 28600 4
+33999 13350 5
+33999 7134 23
+33999 33086 1
+26270 54 1
+26270 908 8
+26270 55 4
+26270 7099 2
+7071 7098 3
+7071 1710 3
+7071 157 1
+7071 908 12
+7071 55 4
+7071 7099 2
+26269 54 1
+26269 9766 1
+26269 908 3
+26269 55 1
+26269 7099 2
+21573 165 2
+21573 8721 2
+21573 908 3
+21573 55 2
+26268 165 4
+26268 8721 4
+26268 3427 1
+26268 54 1
+26268 908 11
+26268 55 11
+26272 8721 2
+26272 54 1
+26272 908 4
+26272 55 1
+26271 8721 2
+26271 54 1
+26271 908 4
+26271 55 1
+23917 23920 1
+23920 648 1
+23920 158 1
+23920 165 2
+23920 898 3
+23920 741 1
+23920 908 20
+23920 897 2
+23920 896 1
+23920 7099 2
+25362 158 2
+25362 10431 1
+25362 7804 2
+25362 7099 2
+25362 54 1
+25362 908 9
+25362 55 3
+25362 7986 5
+19464 741 2
+19464 329 1
+19464 7804 1
+19464 8838 10
+19464 908 22
+19464 1741 1
+19464 158 1
+19464 8721 4
+19464 3436 4
+19464 6854 1
+19464 16151 4
+19464 3423 1
+19464 7099 4
+19464 54 3
+19464 1711 1
+19464 55 9
+26273 54 1
+26273 13876 7
+26273 908 5
+26273 55 1
+26273 7099 2
+17103 8841 6
+17103 54 1
+17103 898 1
+17103 908 8
+17103 56 3
+17103 55 4
+17103 7099 2
+17083 3868 1
+17083 54 1
+17083 3860 3
+17083 908 2
+17083 55 1
+17083 7099 2
+25291 3868 1
+25291 54 1
+25291 17083 1
+25291 3860 3
+25291 908 2
+25291 55 1
+25291 7099 1
+7750 7099 1
+19031 11716 1
+19031 54 3
+19031 1711 1
+19031 741 1
+19031 908 14
+19031 55 2
+19031 7099 4
+8717 8721 2
+8717 54 1
+8717 908 2
+8717 55 1
+8721 908 10
+8721 7804 1
+8721 55 5
+8721 7099 5
+23904 8721 1
+23904 7071 2
+23904 908 4
+23904 55 2
+26265 8721 1
+904 165 2
+908 11788 1
+908 3428 1
+908 741 13
+908 19028 1
+908 329 5
+908 157 1
+908 7804 5
+908 653 3
+908 3427 5
+908 2980 2
+908 158 8
+908 16151 1
+908 6854 3
+908 7099 17
+908 7987 2
+908 165 3
+908 54 6
+908 1711 3
+908 55 8
+908 10048 1
+908 2506 10
+905 648 1
+905 11788 1
+905 898 1
+905 904 1
+741 158 9
+741 900 2
+741 898 1
+741 909 3
+741 901 1
+741 57 2
+741 905 3
+741 648 1
+741 165 5
+741 908 1
+741 904 1
+741 896 2
+741 897 4
+3860 3868 2
+3860 54 1
+3860 3423 1
+7986 1704 6
+7986 2714 15
+7986 908 24
+7986 56 4
+7986 2529 14
+7986 55 10
+7804 56 4
+7804 7987 11
+7804 7986 13
+7804 7099 15
+7099 5708 5
+7099 648 1
+7099 158 1
+7099 3436 2
+7099 908 16
+7099 7804 10
+7099 55 3
+7099 7986 5
+7987 56 2
+7987 7804 27
+7987 7986 76
+158 902 3
+158 159 2
+4455 158 2
+4455 4496 3
+2676 2714 4
+11486 17975 3
+20225 158 2
+20225 8841 2
+20225 15804 2
+20225 4455 3
+20225 11486 1
+20225 2676 12
+20225 11168 111
+20225 2506 8
+26336 11168 10
+11168 11488 3
+11168 158 5
+11168 8841 6
+11168 898 2
+11168 56 2
+11168 4455 8
+11168 11486 8
+11168 165 1
+11168 6176 2
+11168 897 2
+11168 11489 4
+11168 2506 29
+11168 3744 1
+11489 158 1
+2529 158 2
+2529 2600 2
+2529 154 25
+2529 2599 2
+2529 2596 8
+2529 328 1
+2529 2601 1
+2529 165 2
+2529 908 4
+2529 55 1
+2529 2598 4
+2598 154 1
+2598 328 2
+2600 154 1
+2600 2599 1
+2600 2598 1
+2601 2599 1
+2601 1798 1
+2601 330 1
+2601 329 8
+2601 533 1
+2601 2598 1
+2601 328 2
+20845 1466 2
+20845 535 1
+9766 1711 1
+9766 56 4
+9766 55 1
+25042 3424 2
+25042 57 7
+25042 55 3
+25042 328 1
+23775 3424 6
+23775 329 2
+23775 57 30
+23775 56 4
+23775 328 20
+23775 15706 3
+23775 9455 1
+23775 165 1
+23775 23774 1
+23775 1711 5
+23775 4513 1
+23775 533 1
+23775 55 4
+23775 15937 2
+23775 1598 12
+13675 10632 1
+13675 3424 2
+13675 10586 4
+13675 57 7
+13675 56 1
+13675 328 1
+13675 3225 2
+13675 55 4
+13675 2529 3
+10708 158 1
+10708 13675 1
+10708 1711 1
+10708 57 3
+10708 56 4
+10708 55 8
+10708 10631 2
+15706 3424 2
+15706 57 6
+15706 56 4
+15706 3423 2
+15706 328 5
+15706 9455 5
+15706 1711 1
+15706 4513 6
+15706 4542 1
+15706 55 6
+15706 1598 7
+25015 3424 7
+25015 330 1
+25015 329 2
+25015 57 12
+25015 15879 3
+25015 55 8
+25015 328 1
+25077 3225 1
+25077 3424 2
+25077 165 1
+25077 57 5
+25077 55 5
+26267 3225 2
+26267 3424 4
+26267 165 1
+26267 3435 1
+26267 57 10
+26267 10631 3
+26267 328 4
+11657 3424 3
+11657 909 1
+11657 330 4
+11657 329 6
+11657 57 7
+11657 8064 1
+11657 328 2
+11657 3225 1
+11657 165 1
+11657 1711 1
+11657 8087 2
+11657 55 5
+10586 10632 3
+10586 3424 2
+10586 57 12
+10586 56 7
+10586 10631 2
+10586 328 1
+10586 3225 5
+10586 165 1
+10586 1711 1
+10586 55 7
+10586 2529 13
+29879 55 1
+6055 57 1
+6055 6069 2
+6055 4542 2
+6055 55 1
+6055 1598 2
+6055 328 2
+6069 3424 2
+6069 1707 2
+6069 330 1
+6069 57 5
+6069 56 2
+6069 3423 3
+6069 328 1
+6069 1711 3
+6069 55 1
+6069 1598 2
+6069 1708 2
+4008 158 1
+4008 1707 1
+4008 2599 1
+4008 57 13
+4008 21582 1
+4008 8838 6
+4008 328 1
+4008 3225 1
+4008 165 1
+4008 1711 4
+4008 6 1
+4008 1662 3
+4008 2529 4
+4008 55 6
+4008 1706 1
+1662 158 2
+1662 1707 7
+1662 1709 2
+1662 1710 1
+1662 1704 10
+1662 1711 1
+1662 55 9
+1662 1708 1
+1709 55 1
+21582 3424 2
+21582 57 4
+21582 55 2
+9455 9517 3
+9455 3424 6
+9455 329 5
+9455 57 16
+9455 328 21
+9455 5432 2
+9455 6790 1
+9455 1711 2
+9455 533 7
+9455 55 11
+4115 3424 3
+4115 1711 2
+4115 330 1
+4115 329 7
+4115 57 6
+4115 55 3
+4115 328 1
+8838 13876 4
+8838 2599 1
+8838 57 4
+8838 10631 2
+8838 328 1
+8838 3225 4
+8838 165 1
+8838 1704 10
+8838 1711 3
+8838 55 11
+8838 2529 15
+25066 158 1
+25066 10632 1
+25066 3424 2
+25066 57 5
+25066 55 1
+2086 14748 2
+2086 10632 2
+2086 3424 2
+2086 2085 3
+2086 329 36
+2086 2596 4
+2086 298 14
+2086 328 20
+2086 2529 32
+2086 154 27
+2086 57 19
+2086 330 1
+2086 355 2
+2086 21238 1
+2086 165 1
+2086 1711 1
+2086 55 6
+9449 55 1
+26266 10632 2
+26266 3424 2
+26266 57 8
+26266 328 1
+26266 3225 1
+26266 165 1
+26266 1711 2
+26266 55 7
+26266 2529 6
+13877 3424 2
+13877 1711 1
+13877 57 5
+13877 4542 4
+13877 55 1
+13877 1598 2
+13877 328 3
+9517 1711 1
+9517 329 5
+9517 2529 16
+9517 55 4
+3423 3424 2
+3423 329 4
+3423 57 5
+3423 56 6
+3423 328 2
+3423 54 4
+3423 1711 4
+3423 55 4
+3423 15937 1
+55 158 2
+55 13876 2
+55 2599 5
+55 57 6
+55 462 1
+55 3423 1
+55 328 1
+55 11716 3
+55 3225 2
+55 165 2
+55 3427 4
+55 54 3
+55 1711 8
+55 1741 21
+55 10048 1
+7098 55 5
+1710 3225 1
+1710 3424 2
+1710 165 1
+1710 57 4
+1710 55 1
+19026 8838 1
+10631 10708 1
+10631 3424 2
+10631 1711 3
+10631 57 4
+10631 56 4
+10631 55 2
+7447 3424 3
+7447 330 1
+7447 329 7
+7447 57 6
+7447 328 9
+7447 165 1
+7447 1711 2
+7447 533 2
+7447 55 5
+4542 4541 1
+4542 3424 3
+4542 2599 1
+4542 1710 2
+4542 330 2
+4542 329 10
+4542 57 9
+4542 162 1
+4542 56 5
+4542 328 4
+4542 6068 2
+4542 7447 2
+4542 1711 3
+4542 55 12
+4542 1598 1
+12551 57 1
+12551 12120 2
+12551 4542 2
+12551 1598 1
+12551 328 1
+15879 1711 2
+15879 329 5
+15879 55 3
+4513 4541 1
+4513 3424 1
+4513 330 2
+4513 329 6
+4513 57 4
+4513 56 3
+4513 328 2
+4513 1711 3
+4513 4542 1
+4513 55 5
+19029 357 2
+19029 158 3
+19029 330 6
+19029 333 2
+19029 383 1
+19029 355 2
+19029 328 20
+19029 6790 4
+19029 11857 1
+19029 533 3
+19029 3744 2
+19030 158 2
+19030 330 4
+19030 333 1
+19030 56 2
+19030 9388 2
+19030 383 1
+19030 328 5
+19030 54 1
+19030 1711 2
+19030 11857 1
+19030 533 3
+19030 55 3
+6946 357 1
+6946 330 4
+6946 57 1
+6946 333 2
+6946 56 1
+6946 383 1
+6946 328 10
+6946 17892 2
+6946 8704 3
+6946 533 3
+6946 1597 4
+10431 54 1
+10431 1711 4
+10431 329 8
+10431 56 3
+10431 55 3
+13876 1711 1
+13876 55 2
+8841 158 2
+8841 11486 1
+8841 154 12
+8841 1711 1
+8841 56 30
+8841 55 2
+8841 3744 3
+17859 2599 1
+17859 329 2
+17859 6905 3
+17859 6949 1
+17859 1596 2
+17859 1954 7
+17859 4542 23
+17859 6947 13
+17859 158 2
+17859 6948 15
+17859 20846 4
+17859 1466 11
+17859 56 7
+17859 9455 1
+17859 1593 2
+17859 20845 2
+17859 1711 5
+17859 533 11
+17859 55 43
+17859 3744 1
+54 10708 2
+54 8841 2
+54 9766 4
+54 898 1
+54 13876 2
+54 2599 11
+54 56 10
+54 10431 2
+54 3423 5
+54 11716 2
+54 1704 11
+54 3868 4
+54 1711 2
+54 55 9
+54 4542 9
+54 13877 2
+11716 54 32
+11716 1711 3
+1711 1707 5
+1711 9766 7
+1711 13876 3
+1711 329 6
+1711 10431 1
+1711 328 5
+1711 11716 10
+1711 23774 14
+1711 3868 3
+1711 7447 1
+1711 4542 6
+1711 10708 3
+1711 158 3
+1711 8841 7
+1711 57 1
+1711 56 9
+1711 23775 2
+1711 3423 18
+1711 7987 2
+1711 9455 2
+1711 54 6
+1711 55 13
+23774 32945 56
+23774 536 5
+23774 329 2
+23774 496 1
+23774 56 5
+23774 3423 16
+23774 328 18
+23774 11716 2
+23774 537 1
+23774 1711 1
+23774 55 1
+32945 11716 1
+32945 536 5
+32945 56 5
+32945 3423 6
+32945 55 1
+32945 328 1
+20846 1954 1
+20846 535 1
+20846 56 1
+3868 54 2
+3868 1711 1
+3868 329 1
+3868 3423 4
+2599 535 1
+2599 4542 1
+2599 4008 1
+2599 2529 1
+2599 55 4
+2599 8838 1
+20340 10632 1
+20340 330 4
+20340 57 3
+20340 56 1
+20340 4542 3
+20340 1598 3
+20340 328 2
+12120 330 4
+12120 329 1
+12120 533 1
+12120 4542 2
+8981 2166 2
+8981 330 1
+8981 329 1
+8981 57 1
+8981 55 1
+2165 57 6
+19451 8981 1
+19451 1710 2
+19451 330 3
+19451 329 3
+19451 57 1
+19451 56 1
+19451 3423 6
+19451 2165 1
+19451 328 1
+19451 2166 1
+19451 1711 3
+19451 6900 2
+19451 2167 3
+19451 55 21
+2166 330 2
+2166 329 2
+2166 57 2
+2166 55 2
+3424 8981 2
+3424 330 2
+3424 329 2
+3424 57 10
+3424 2165 1
+3424 328 6
+3424 2166 2
+3424 2167 4
+3424 55 4
+2167 57 2
+2167 56 2
+2167 55 2
+3435 3225 10
+3435 165 1
+3435 57 2
+2066 2086 2
+2066 355 6
+2066 328 2
+14748 2066 2
+14748 2086 5
+14748 355 13
+14748 328 3
+10432 158 1
+10432 1466 1
+10432 329 1
+10432 56 5
+10432 10431 3
+10432 12523 2
+17892 357 1
+17892 25251 6
+17892 1711 2
+17892 56 2
+17892 55 2
+17892 328 1
+10401 357 1
+10401 158 1
+10401 1466 3
+10401 330 2
+10401 329 1
+10401 56 4
+10401 10431 2
+10401 537 1
+10401 533 1
+10401 1597 1
+10401 3894 2
+25251 357 5
+25251 10432 4
+25251 56 3
+25251 10401 1
+25251 1597 3
+25251 328 1
+10632 158 4
+10632 57 7
+5498 10632 1
+5498 329 2
+5498 57 3
+5432 330 4
+5432 329 4
+5432 328 6
+21199 21238 1
+21199 57 2
+3429 3436 1
+3429 3425 1
+3225 3437 1
+3225 3424 1
+3225 3436 1
+3225 330 2
+3225 157 1
+3225 57 3
+3225 2165 9
+3225 653 1
+3225 328 2
+3225 3429 3
+3225 165 1
+3225 3435 1
+3225 3425 4
+3437 8841 7
+3437 8840 2
+3437 57 6
+15937 158 2
+15937 329 1
+15937 57 5
+15937 56 1
+15937 3423 6
+15937 55 1
+901 648 2
+901 158 2
+901 165 1
+901 57 7
+901 896 1
+901 556 5
+25304 14748 1
+25304 2085 3
+25304 3428 1
+25304 57 7
+25304 328 12
+25304 3427 3
+25304 55 1
+25304 1598 3
+25304 2506 3
+16154 158 2
+16154 909 2
+16154 57 14
+16154 653 4
+16154 328 1
+16154 648 1
+16154 165 1
+16154 7508 1
+16154 16277 1
+900 9047 2
+900 3437 1
+900 158 7
+900 8841 10
+900 655 1
+900 8840 1
+900 648 2
+900 165 5
+900 896 1
+900 897 2
+900 3744 4
+57 10632 3
+57 3424 6
+57 328 40
+57 8088 1
+57 4542 2
+57 1706 6
+57 15937 5
+57 1598 9
+57 20340 1
+57 9047 2
+57 9517 6
+57 330 6
+57 1710 2
+57 56 13
+57 16154 2
+57 3225 15
+57 9455 3
+57 3429 3
+57 165 6
+57 1711 19
+57 5498 1
+57 55 35
+57 3744 5
+57 14784 7
+57 14748 3
+57 2085 5
+57 655 1
+57 653 1
+57 11716 4
+57 17892 2
+57 3868 1
+57 2529 4
+57 10708 2
+57 158 7
+57 8841 16
+57 909 2
+57 3426 7
+57 6854 3
+57 8840 2
+57 3423 3
+57 6790 3
+57 3435 1
+57 25304 2
+57 2506 6
+8064 3225 5
+8064 57 5
+8064 8087 6
+8064 328 5
+19356 158 22
+19356 3424 1
+19356 655 1
+19356 899 1
+19356 57 4
+19356 648 5
+19356 165 2
+19356 19451 4
+19356 654 1
+19356 896 2
+19356 3744 1
+1193 165 3
+22553 20404 7
+22553 3930 1
+22553 2946 15
+22553 102 2
+34379 1203 1
+34379 1202 8
+34379 1199 2
+34379 1198 3
+34379 4430 1
+34379 1193 1
+34379 165 5
+34379 2436 2
+34379 102 17
+20404 11106 1
+20404 20464 1
+20464 3930 2
+11106 3930 2
+5313 485 7
+5313 101 1
+5313 3171 3
+5313 479 1
+5324 2122 2
+5324 485 1
+5324 101 5
+5324 3171 3
+5324 1447 1
+5324 5321 1
+5324 2121 7
+5324 2125 3
+5325 5283 13
+5325 485 2
+5325 101 1
+5325 3171 3
+5325 2125 5
+5321 5283 4
+5321 485 2
+5321 101 4
+5321 3171 6
+5321 2121 5
+5321 2122 4
+5321 1447 1
+5321 2125 5
+14595 3829 1
+14595 101 4
+14595 3171 14
+14595 98 2
+14595 444 1
+14595 100 4
+14595 10676 1
+14595 105 2
+14595 1447 2
+14595 7063 4
+10644 3829 1
+10644 485 6
+10644 10677 1
+10644 101 4
+10644 3171 14
+10644 479 1
+10644 95 2
+10644 98 2
+10644 100 6
+10644 104 1
+10644 10676 2
+10644 105 4
+10644 1447 3
+10644 7063 4
+10644 102 1
+26491 485 4
+13075 3829 1
+13075 105 1
+13075 3171 4
+13075 1447 1
+13075 98 2
+7003 101 3
+7003 3171 8
+7003 7781 1
+7003 14056 1
+7003 3832 1
+7003 103 3
+7003 98 3
+7003 3831 4
+7003 100 2
+7003 105 5
+7003 102 2
+7003 2946 1
+8110 485 1
+8110 105 1
+8110 3171 3
+8110 3830 2
+8110 8097 1
+3830 8110 1
+3830 485 3
+3830 105 3
+3830 3171 11
+3830 99 2
+3830 479 1
+3830 95 1
+5317 485 14
+5317 105 1
+5317 3171 6
+5317 479 2
+5317 95 7
+5317 2940 4
+5317 104 1
+5317 102 1
+5294 485 5
+5294 97 3
+5294 95 2
+5294 98 1
+5303 485 1
+5303 2125 1
+4622 1866 1
+4622 5320 1
+4622 103 1
+4622 5212 71
+4622 5325 1
+4622 5316 1
+4622 5315 1
+4622 5302 2
+4622 5321 3
+4622 2123 6
+4622 5312 2
+4622 5289 3
+4622 5307 1
+4622 5298 1
+4622 5285 22
+4622 3758 1
+4622 1851 2
+4622 2136 1
+4622 5304 1
+4622 5324 2
+4622 5319 2
+4622 5293 2
+4622 5313 3
+4622 99 3
+4622 2124 1
+4622 5291 2
+4622 5294 1
+4622 5284 4
+4622 5296 1
+4622 5322 2
+4622 5297 1
+4622 5299 2
+4622 5305 1
+4622 5318 4
+4622 5300 1
+4622 5288 3
+4622 5317 5
+4622 5301 2
+4622 1403 2
+4622 236 2
+4622 5295 1
+4622 5310 2
+4622 5311 4
+4622 5314 1
+4622 2388 1
+4622 5292 1
+4622 5323 1
+4622 5303 2
+4622 691 1
+4622 1815 1
+4622 98 5
+4622 5309 1
+4622 97 3
+4622 465 1
+4622 5290 2
+4622 5286 9
+4622 67 1
+31276 3829 1
+31276 101 4
+31276 3171 9
+31276 103 1
+31276 98 3
+31276 100 4
+31276 104 1
+31276 105 1
+31276 1447 2
+31276 7063 3
+31276 102 1
+479 485 15
+479 101 2
+479 3171 6
+479 5285 3
+479 95 6
+479 2941 2
+479 104 1
+479 105 1
+479 2125 2
+1866 485 1
+1866 97 3
+1866 98 1
+9663 9221 1
+9663 3829 1
+9663 485 4
+9663 101 1
+9663 3171 11
+9663 6011 2
+9663 100 1
+9663 104 1
+9663 105 4
+9663 97 1
+9663 1447 1
+9663 102 3
+9663 2125 1
+27049 3829 1
+27049 101 3
+27049 3171 3
+27049 100 1
+5290 485 3
+5290 97 8
+5290 479 1
+5290 95 1
+5290 98 1
+5298 485 7
+5298 97 6
+5298 479 2
+5298 98 1
+5298 2125 1
+5298 104 1
+31025 3829 1
+31025 101 9
+31025 3171 8
+31025 1447 3
+31025 3831 5
+9664 3829 1
+9664 485 10
+9664 101 9
+9664 3171 4
+9664 479 1
+9664 100 1
+9664 105 1
+9664 1447 2
+2136 101 1
+2136 97 2
+2136 98 1
+9337 105 3
+9337 101 1
+9337 3171 4
+9337 7781 1
+9337 103 2
+9337 98 3
+9337 100 3
+5292 485 7
+5292 101 2
+5292 3171 2
+5292 479 2
+5292 95 3
+5292 98 1
+5292 100 2
+5292 104 3
+5292 97 5
+5292 99 2
+5292 7063 2
+5292 102 3
+67 105 1
+67 97 4
+67 3171 1
+67 99 2
+67 98 1
+67 104 1
+67 102 1
+5289 485 42
+5289 101 3
+5289 3171 5
+5289 479 15
+5289 95 12
+5289 2125 3
+485 105 1
+485 101 7
+485 3171 3
+485 95 2
+485 103 2
+485 2940 5
+485 100 5
+485 2125 9
+3172 3829 1
+3172 3171 3
+1815 485 9
+1815 101 2
+1815 3171 5
+1815 479 2
+1815 1851 3
+1815 100 2
+1815 104 1
+5284 485 11
+5284 101 2
+5284 3171 7
+5284 479 3
+5284 104 1
+5314 485 7
+5314 101 1
+5314 3171 3
+5314 479 1
+5297 485 1
+5297 97 3
+5297 98 1
+20026 3829 1
+20026 485 6
+20026 10677 1
+20026 101 12
+20026 3171 13
+20026 479 1
+20026 95 2
+20026 100 1
+20026 5306 1
+20026 104 1
+20026 105 2
+20026 1447 2
+20026 102 1
+5296 485 9
+5296 3171 2
+5296 479 3
+5296 98 3
+5296 100 1
+5296 105 1
+5296 97 7
+5296 99 1
+5296 7063 1
+2388 485 1
+2388 3171 3
+2388 98 1
+2388 104 2
+2388 105 3
+2388 97 3
+2388 99 2
+2388 1447 1
+2388 2436 2
+2388 102 3
+97 485 18
+97 101 3
+97 3171 11
+97 479 1
+97 95 11
+97 2941 3
+97 103 5
+97 98 26
+97 2940 7
+97 2945 2
+97 104 11
+97 105 5
+97 2436 4
+97 2946 1
+97 2125 1
+97 102 7
+236 485 1
+236 101 1
+236 97 4
+236 98 1
+2096 2122 2
+2096 2121 1
+2096 100 1
+2096 2125 2
+2124 2096 2
+7728 3829 1
+7728 485 7
+7728 105 1
+7728 3171 8
+7728 1447 2
+7728 479 1
+7752 648 1
+7752 105 12
+7752 3171 3
+7752 7781 1
+7752 7063 14
+7752 102 2
+14469 648 2
+14469 105 12
+14469 3171 5
+14469 7781 1
+14469 7063 18
+14469 102 4
+3829 105 1
+3829 3171 3
+5312 485 1
+11907 5283 3
+11907 485 7
+11907 101 28
+11907 3171 6
+11907 7781 1
+11907 479 1
+11907 95 1
+11907 98 5
+11907 100 4
+11907 104 1
+11907 105 3
+11907 1447 1
+11907 102 1
+1403 485 10
+1403 101 13
+1403 3171 1
+1403 479 2
+1403 95 1
+1403 98 4
+1403 100 4
+1403 105 1
+1403 97 7
+1403 1447 2
+1403 99 1
+5323 2096 2
+691 485 3
+691 101 2
+691 97 3
+691 479 1
+691 95 1
+691 98 1
+5305 101 5
+5305 97 2
+5305 3171 9
+5305 1851 2
+5305 6422 1
+5305 98 2
+5305 100 1
+6348 8110 2
+6348 3829 1
+6348 485 3
+6348 105 1
+6348 101 2
+6348 3171 3
+6348 1447 1
+6274 3829 1
+6274 101 7
+6274 3171 23
+6274 103 11
+6274 98 7
+6274 3831 1
+6274 105 8
+6274 1447 1
+6274 3773 1
+6274 6348 1
+99 485 1
+5301 8122 4
+5301 98 2
+2121 5283 1
+2121 3171 1
+2121 2123 1
+2121 444 4
+5319 485 23
+5319 3171 6
+5319 479 2
+5319 95 2
+5319 2940 4
+5319 2125 9
+5319 104 1
+20865 3829 1
+20865 3171 4
+20865 100 1
+10676 5283 3
+10676 101 27
+10676 29615 1
+10676 7781 3
+10676 444 10
+10676 5325 2
+10676 2123 1
+10676 7063 4
+10676 3171 5
+10676 98 3
+10676 100 14
+10676 2121 11
+10676 105 3
+10676 1447 10
+10676 10714 52
+10676 2946 6
+8122 485 6
+8122 101 4
+8122 97 6
+8122 95 1
+8122 98 2
+8122 104 2
+5288 8122 4
+5288 98 2
+9754 105 1
+9754 3171 2
+9754 7781 1
+9754 103 1
+5302 8122 4
+5302 98 2
+5295 485 2
+5295 97 4
+5295 98 1
+5295 2125 1
+20035 5283 6
+20035 3829 1
+20035 485 5
+20035 11624 5
+20035 101 17
+20035 3171 3
+20035 479 1
+20035 95 2
+20035 20116 3
+20035 100 11
+20035 105 3
+20035 7171 5
+20035 1447 6
+20035 10855 3
+20035 3830 20
+20035 2946 3
+5291 485 4
+5291 101 1
+5291 97 6
+5291 95 2
+5291 98 1
+17183 3829 1
+17183 105 1
+17183 3171 5
+17183 1447 1
+17183 102 1
+9288 105 5
+9288 3171 11
+9288 1447 1
+9288 7781 1
+9288 98 1
+9288 7063 1
+9288 100 1
+9288 102 1
+5308 485 2
+5308 101 1
+5308 3171 9
+5308 479 1
+5308 95 7
+5308 103 2
+5308 98 3
+5308 444 1
+5308 100 3
+5308 105 2
+5308 7171 7
+5308 7063 1
+5309 7171 9
+5309 10855 2
+5309 5308 1
+5309 95 2
+5309 98 1
+5309 100 4
+5286 485 9
+5286 2091 7
+5286 101 2
+5286 3171 6
+5286 5285 4
+5286 95 1
+5322 5283 5
+5322 485 2
+5322 101 6
+5322 3171 6
+5322 2121 6
+5322 2122 3
+5322 1447 1
+5322 5321 1
+5322 2125 4
+105 9221 4
+105 5283 2
+105 103 81
+105 5212 3
+105 3146 6
+105 2940 40
+105 444 3
+105 9371 1
+105 5306 1
+105 653 2
+105 104 2
+105 7063 14
+105 485 2
+105 9288 5
+105 3171 45
+105 5308 1
+105 3667 5
+105 98 23
+105 648 4
+105 7171 5
+105 165 7
+105 102 25
+105 2946 12
+5283 485 1
+5304 101 3
+5304 97 2
+5304 3171 3
+5304 1851 1
+5304 6422 1
+5304 2123 1
+5304 98 2
+1851 101 4
+1851 479 12
+1851 104 2
+1851 10855 4
+1851 2123 1
+1851 5289 8
+1851 485 19
+1851 706 2
+1851 3171 16
+1851 95 3
+1851 5285 5
+1851 5304 1
+1851 1815 1
+1851 100 4
+1851 105 1
+1851 7171 7
+1851 97 1
+1851 5313 1
+1851 1447 3
+1851 410 2
+1851 2946 2
+10510 8110 2
+10510 3829 1
+10510 485 2
+10510 101 3
+10510 3171 5
+10510 100 1
+5320 485 3
+5320 101 9
+5320 1851 2
+5320 2123 4
+5320 2125 5
+5311 485 1
+5318 485 30
+5318 101 2
+5318 3171 6
+5318 479 11
+5318 95 9
+5318 2940 4
+5318 104 1
+5318 105 1
+5318 7171 2
+5318 10855 2
+5318 102 1
+5318 2125 1
+2091 485 1
+2122 2121 1
+3758 485 1
+3758 97 3
+3758 98 1
+8097 8110 1
+10677 8110 6
+10677 8882 1
+10677 101 17
+10677 20025 4
+10677 479 1
+10677 6422 3
+10677 104 1
+10677 10855 5
+10677 485 11
+10677 3829 1
+10677 3171 8
+10677 95 5
+10677 100 10
+10677 105 3
+10677 7171 10
+10677 1447 9
+10677 2946 4
+5300 485 6
+5300 97 6
+5300 479 2
+5300 98 1
+5300 104 1
+5300 102 1
+5285 485 1
+5285 2091 1
+5285 101 11
+5285 3171 9
+5285 1851 10
+5285 100 5
+5285 104 1
+5285 105 2
+5285 5286 3
+5285 2946 2
+2123 485 7
+2123 101 29
+2123 3171 5
+2123 5285 9
+2123 1851 6
+2123 100 9
+2123 2122 1
+2123 1447 4
+2123 2125 9
+2123 2946 1
+5293 485 4
+5293 101 1
+5293 97 6
+5293 95 2
+5293 98 1
+5293 104 1
+5293 102 1
+5299 485 1
+5299 101 1
+5299 97 4
+5299 95 1
+5299 98 1
+7063 9337 2
+7063 101 24
+7063 7781 2
+7063 103 8
+7063 444 5
+7063 5306 1
+7063 10676 10
+7063 11907 2
+7063 14469 1
+7063 9288 3
+7063 3171 26
+7063 5308 1
+7063 98 3
+7063 100 22
+7063 105 12
+7063 7171 2
+7063 1447 11
+7063 11947 2
+7063 2946 5
+7063 102 1
+7063 7003 1
+103 9337 2
+103 3171 4
+103 5308 3
+103 98 14
+103 2940 1
+103 444 4
+103 5306 3
+103 7171 2
+103 7063 3
+103 7003 4
+3171 101 10
+3171 95 2
+3171 103 5
+3171 98 5
+3171 444 2
+3171 100 6
+3171 105 17
+3171 7171 3
+3171 7063 4
+3171 2946 1
+3171 102 2
+444 5283 4
+444 485 1
+444 101 4
+444 3171 20
+444 7781 1
+444 103 2
+444 98 8
+444 100 2
+444 105 14
+444 1447 5
+444 7063 2
+444 102 1
+10714 485 3
+10714 101 2
+10714 3171 2
+10714 2121 7
+10714 444 4
+10714 100 1
+10714 10676 6
+10714 2125 4
+9221 3829 1
+9221 101 3
+9221 3171 8
+9221 1447 2
+7781 105 1
+7781 101 1
+7781 3171 5
+7781 1447 1
+7781 100 1
+9429 8110 1
+9429 3829 1
+9429 485 4
+9429 101 4
+9429 3171 6
+9429 479 1
+9429 100 2
+9429 1447 1
+5316 485 8
+5316 3171 3
+5316 479 1
+5316 95 2
+5316 2940 3
+5316 104 1
+5315 485 10
+5315 101 3
+5315 3171 4
+5315 5285 2
+5315 479 1
+465 485 3
+465 97 3
+465 479 1
+465 98 1
+465 100 1
+5310 5307 1
+5310 485 1
+5310 3171 3
+5310 103 2
+5310 98 4
+5310 5309 1
+5310 104 1
+5310 105 3
+5310 7171 2
+5310 10855 6
+5310 7063 1
+5310 102 3
+3146 3171 7
+3146 1447 1
+3146 3172 5
+3146 98 2
+3146 104 1
+3146 102 2
+3831 3829 1
+3831 105 3
+3831 101 2
+3831 3171 5
+3831 103 1
+3831 98 1
+3831 100 2
+3831 7003 1
+4292 3829 1
+4292 485 4
+4292 101 3
+4292 3171 5
+4292 479 1
+4292 95 1
+4292 100 1
+4292 105 1
+4292 1447 2
+5306 485 1
+5306 101 2
+5306 3171 6
+5306 95 5
+5306 103 2
+5306 98 2
+5306 100 3
+5306 105 2
+5306 7171 9
+5306 7063 1
+7171 485 5
+7171 101 5
+7171 3171 15
+7171 7781 1
+7171 95 4
+7171 98 7
+7171 100 1
+7171 105 3
+7171 1447 1
+7171 10855 2
+5307 7171 7
+5307 10855 2
+5307 95 2
+5307 100 4
+5307 5306 1
+10855 485 1
+10855 7171 11
+10855 3171 3
+10855 7781 1
+10855 95 1
+10855 98 1
+6011 3829 1
+6011 485 5
+6011 105 2
+6011 3171 8
+6011 1447 2
+6011 479 1
+6011 102 1
+11947 105 6
+11947 101 7
+11947 3171 3
+11947 1447 2
+11947 7781 1
+11947 98 1
+11947 100 8
+11947 2946 1
+8855 3829 1
+8855 485 5
+8855 101 1
+8855 3171 10
+8855 479 1
+8855 98 3
+8855 100 2
+8855 105 2
+8855 1447 3
+5212 5307 1
+5212 4622 3
+5212 2091 2
+5212 3171 1
+5212 5285 1
+5212 103 2
+5212 98 8
+5212 105 10
+5212 5286 4
+5212 5413 1
+5212 102 3
+5212 2946 6
+2946 648 9
+2946 105 23
+2946 1447 4
+2946 103 1
+2946 98 15
+2946 7063 10
+3832 9221 1
+3832 8110 3
+3832 3829 1
+3832 485 3
+3832 101 6
+3832 3171 18
+3832 103 1
+3832 98 2
+3832 100 1
+3832 105 2
+3832 1447 1
+3832 3830 5
+3832 6274 2
+3773 3829 1
+3773 101 16
+3773 3171 17
+3773 103 1
+3773 98 2
+3773 3831 1
+3773 100 1
+3773 105 5
+3773 1447 1
+3773 3830 12
+3773 102 3
+14056 101 2
+2947 1850 1
+2947 105 2
+2947 101 3
+2947 7173 1
+2947 95 1
+2947 478 1
+2947 100 5
+100 105 2
+100 3171 1
+100 7063 5
+6422 101 4
+6422 1447 1
+14724 14728 1
+102 3171 8
+102 7063 1
+706 7063 1
+706 100 2
+2948 1850 1
+2948 105 2
+2948 101 4
+2948 7173 1
+2948 478 1
+2948 2947 1
+2948 100 6
+2948 14242 1
+11624 101 3
+101 34151 4
+2940 95 19
+29615 101 3
+20116 7063 1
+20116 100 2
+1852 1850 1
+1852 101 9
+1852 7173 1
+1852 95 1
+1852 478 1
+1852 100 11
+1852 2945 1
+1852 7172 1
+1852 105 3
+1852 2947 1
+1852 102 1
+1852 2125 1
+8882 7063 1
+8882 100 2
+20025 7063 1
+20025 100 2
+7172 1850 1
+7172 101 9
+7172 7173 1
+7172 95 1
+7172 478 2
+7172 100 9
+7172 2945 1
+7172 105 3
+7172 1852 1
+7172 2947 1
+7172 102 2
+7172 2125 1
+14242 95 1
+2945 105 1
+2945 101 1
+2945 1447 1
+2945 95 1
+2945 478 1
+2945 100 2
+7173 1850 1
+7173 101 5
+7173 478 1
+7173 100 7
+7173 14242 1
+7173 105 3
+7173 2948 1
+7173 2947 1
+7173 2125 4
+1850 101 10
+1850 7173 1
+1850 95 1
+1850 478 1
+1850 100 10
+1850 2945 1
+1850 105 3
+1850 7172 1
+1850 1852 1
+1850 8937 1
+1850 2947 1
+8937 1850 1
+8937 101 12
+8937 7173 1
+8937 95 1
+8937 478 1
+8937 100 16
+8937 2945 1
+8937 105 2
+8937 1852 1
+8937 1447 4
+8937 2947 1
+8937 102 1
+22632 101 2
+34151 102 2
+478 1850 1
+478 101 3
+478 7173 1
+478 95 1
+478 100 6
+478 105 3
+478 2947 1
+478 2125 1
+410 101 3
+95 105 6
+95 101 7
+95 2947 2
+95 100 13
+95 2125 2
+95 102 6
+104 3171 2
+104 102 6
+8942 105 2
+8942 101 1
+8942 95 1
+8942 478 1
+8942 100 3
+13439 218 4
+18598 2648 6
+11117 1203 3
+11117 4247 8
+11117 218 4
+4427 1198 53
+1198 2719 1
+1198 215 3
+1198 26426 1
+1198 10879 3
+1198 1382 6
+1198 1200 10
+1198 11609 2
+1198 1193 1
+1198 218 6
+1199 1203 3
+1199 655 1
+1199 1198 7
+1199 1200 15
+1199 654 1
+28400 1203 2
+28400 1199 2
+28400 1198 2
+2719 218 1
+10879 218 4
+30905 21190 5
+30905 218 1
+1334 1382 14
+1334 1200 9
+11566 1203 7
+11566 1199 4
+11566 1198 4
+11566 11607 3
+11566 11609 3
+11566 1193 3
+11566 11608 3
+11566 653 1
+189 218 1
+11607 4427 3
+11607 1200 3
+26594 4247 5
+26594 2648 8
+7236 1203 3
+18724 1203 1
+18724 2436 2
+18724 7236 2
+27392 218 1
+28159 218 1
+2622 2648 9
+11609 218 5
+18774 18724 3
+18774 7236 5
+18774 218 3
+21190 218 4
+11608 218 6
+1203 215 1
+1203 1202 6
+1203 1199 2
+1203 1200 26
+1203 4430 1
+1203 1193 1
+1203 4427 2
+1203 4429 1
+1203 4428 3
+1203 1334 6
+9371 1200 6
+215 21190 1
+215 1198 2
+215 11607 3
+215 1205 3
+215 462 2
+215 1193 1
+215 165 2
+215 4427 3
+215 13439 1
+215 11609 5
+16037 1200 9
+31412 31416 1
+1200 35517 1
+26426 215 1
+26426 165 7
+26426 1200 1
+26426 9371 3
+4429 6447 1
+16045 215 3
+16045 165 12
+16045 3436 11
+16045 16037 6
+16045 1200 11
+16045 9371 3
+6447 1200 1
+15828 1200 10
+16043 165 5
+16043 15828 2
+16043 3436 4
+16043 6751 3
+6751 165 2
+6751 15828 1
+6751 3436 1
+16044 165 3
+16044 6751 3
+6686 215 1
+6686 165 10
+6686 15828 14
+6686 3436 5
+6686 6751 3
+6686 1200 1
+16041 1200 3
+16041 16038 16
+16038 15828 1
+16042 16038 4
+16039 16040 2
+16039 215 2
+16039 16041 1
+16039 15828 6
+16039 16038 14
+16040 215 1
+16040 15828 9
+16040 1200 1
+16040 16038 10
+1202 16044 2
+1202 16040 2
+1202 16041 2
+1202 16037 1
+1202 16043 2
+1202 16042 2
+1202 6686 2
+1202 16038 1
+1202 14077 3
+1202 16039 2
+1202 16045 1
+1205 648 1
+1205 3436 2
+1208 648 1
+3668 648 1
+3668 105 14
+3668 3670 2
+3668 3669 2
+3668 3667 1
+3668 1201 2
+3668 7063 4
+3668 2946 12
+3670 975 2
+3670 1201 2
+3670 102 12
+3672 556 1
+1201 3668 3
+1201 975 2
+1201 648 1
+1201 3670 1
+1201 3671 3
+1201 3669 2
+1201 2946 14
+1201 102 8
+3671 1203 1
+3671 975 12
+3671 165 1
+3671 1199 8
+3671 1198 4
+3671 1207 1
+3671 102 2
+975 1203 11
+975 1208 2
+975 1202 24
+975 1199 9
+975 1198 15
+975 1205 3
+975 1201 7
+975 1200 9
+975 1193 1
+975 1207 2
+975 648 10
+975 165 5
+975 1206 3
+975 102 20
+3669 648 5
+3669 1447 1
+3669 1205 1
+3669 2946 3
+3669 102 6
+1206 648 1
+1206 165 2
+1206 1199 5
+1206 1198 6
+1206 102 2
+14707 13023 7
+6197 462 3
+13023 158 2
+909 158 1
+909 14707 1
+909 156 4
+23237 158 3
+7638 158 3
+27458 16951 2
+16426 158 5
+16426 1801 2
+16426 5707 51
+16426 909 3
+16426 5711 11
+16426 2456 1
+16426 156 2
+16426 13023 1
+16426 6900 1
+16426 2506 5
+5709 29870 2
+5709 158 2
+5709 13023 2
+5709 909 1
+5709 18430 4
+5709 156 1
+29870 158 2
+29870 13023 2
+29870 16426 2
+29870 909 1
+29870 2456 1
+29870 156 1
+22888 23237 33
+22888 154 10
+22888 909 1
+22888 16951 32
+22888 5711 1
+22888 2456 1
+22888 156 3
+1801 655 1
+1801 898 1
+1801 16426 4
+1801 5711 2
+1801 24681 1
+1801 13023 2
+1801 6900 1
+1801 16277 7
+1801 654 1
+1801 158 4
+1801 3433 5
+1801 5707 3
+1801 12519 1
+1801 909 1
+1801 648 2
+1801 165 3
+1801 7508 3
+1801 896 1
+1799 6197 3
+6900 6197 47
+6900 1800 1
+6900 17700 7
+19226 16951 8
+16951 16950 6
+8087 3436 1
+5711 16951 4
+7508 648 2
+7508 158 3
+7508 165 4
+7508 655 1
+7508 7638 15
+7508 654 1
+7508 653 3
+24681 648 8
+24681 158 3
+24681 7508 4
+24681 165 7
+24681 655 1
+24681 7638 1
+24681 654 1
+3433 5709 2
+3433 158 1
+3433 1801 2
+3433 154 11
+3433 5707 23
+3433 16426 27
+3433 909 1
+3433 157 2
+3433 5711 2
+3433 56 1
+3433 2596 6
+3433 156 4
+3433 5715 1
+3433 897 6
+5715 13023 8
+16277 16954 2
+16277 5709 2
+16277 5708 17
+16277 898 1
+16277 16426 40
+16277 16951 15
+16277 5711 17
+16277 653 3
+16277 8087 7
+16277 158 3
+16277 154 12
+16277 1801 2
+16277 5707 51
+16277 909 1
+16277 156 5
+16277 648 1
+16277 1704 6
+16277 165 1
+16277 16950 8
+16277 3744 1
+12519 5708 21
+12519 154 2
+12519 5707 15
+12519 16426 7
+12519 909 1
+12519 156 1
+12519 1704 1
+12519 16277 4
+12519 16950 2
+8991 8088 4
+9047 158 2
+9047 157 3
+899 158 4
+899 165 3
+899 6854 2
+899 3744 1
+899 653 4
+154 157 5
+5708 16950 5
+10253 158 1
+10253 165 4
+10253 898 1
+10253 6854 1
+10253 3744 1
+10253 653 3
+3425 3436 9
+3428 3427 1
+3428 21840 1
+3428 21780 13
+3426 158 1
+3426 3744 1
+21840 3428 3
+56 158 13
+56 5818 7
+6854 16151 17
+6854 653 5
+2596 154 3
+2596 3426 3
+24688 1703 6
+898 12942 4
+897 8088 7
+897 8991 1
+897 16151 14
+12942 158 19
+10048 158 2
+156 154 1
+935 298 1
+17802 298 1
+31476 298 1
+10486 298 1
+29875 298 1
+7034 298 1
+11692 298 1
+25121 298 1
+20371 298 1
+948 298 1
+30015 298 1
+294 298 1
+2196 2169 5
+2196 2192 22
+2196 9414 5
+2196 11098 5
+9392 2194 1
+9392 2192 1
+9392 9414 1
+9392 2196 15
+2169 2194 5
+2169 2196 6
+2194 2192 6
+2194 2196 31
+11098 2192 3
+11098 2196 13
+9414 2194 6
+9414 2192 1
+9414 2196 4
+14784 330 7
+14784 56 8
+27344 255 1
+27344 330 5
+27344 329 4
+27344 328 6
+907 648 1
+907 165 1
+907 8088 3
+8088 158 2
+8088 154 5
+8088 6900 1
+8088 12517 7
+8088 2596 2
+533 357 1
+533 158 3
+533 330 11
+533 328 20
+6509 158 20
+6509 907 2
+6509 328 5
+355 158 19
+355 2085 22
+355 909 6
+355 328 10
+6790 165 3
+6790 898 1
+6790 4108 1
+6790 896 1
+6790 328 6
+1598 158 3
+1598 1711 1
+1598 330 22
+1598 56 3
+1598 4542 3
+1598 55 4
+1598 328 8
+329 1591 2
+329 158 4
+329 330 4
+329 535 1
+329 328 29
+329 1946 1
+329 2980 1
+329 1798 3
+329 533 11
+329 3744 2
+1753 255 1
+1753 330 5
+1753 329 4
+1753 328 4
+328 5708 8
+328 158 3
+328 2085 10
+328 12519 6
+328 1466 2
+328 909 18
+328 1593 1
+328 6790 3
+328 1961 1
+328 1598 3
+21245 20189 3
+535 536 1
+535 2149 1
+535 1466 1
+535 4508 1
+535 496 1
+535 162 1
+535 537 1
+535 1946 1
+535 1947 1
+535 8704 1
+535 1954 1
+535 533 1
+13429 1591 1
+13429 3894 2
+6947 6948 7
+6947 1591 1
+6947 158 1
+6947 1466 3
+6947 535 1
+6947 2456 3
+6947 328 3
+6947 1593 12
+6947 1596 1
+6947 533 3
+3872 3038 3
+3872 1591 3
+3872 537 2
+3872 1593 4
+3872 1466 5
+3872 1598 3
+3872 328 1
+3908 1591 1
+3908 1466 2
+3908 328 2
+3894 1591 1
+3894 1466 1
+3894 3872 4
+3894 2456 4
+12518 1591 2
+12518 1466 7
+12518 2456 7
+12518 328 3
+12518 537 9
+12518 3038 7
+12518 1593 6
+12518 1598 3
+12953 357 1
+12953 6949 1
+12953 1593 3
+12953 1466 4
+12953 533 7
+12953 3872 3
+12953 1597 3
+6949 357 2
+6949 1593 3
+6949 1466 7
+6949 533 10
+6949 1597 5
+6949 1598 3
+6949 328 7
+6905 6948 1
+6905 1591 2
+6905 357 1
+6905 1466 4
+6905 6949 1
+6905 1593 5
+6905 533 8
+6905 1597 6
+6905 6947 7
+1932 1466 2
+1932 535 1
+1595 3744 1
+1466 1591 2
+1466 357 2
+1466 158 1
+1466 909 1
+1466 535 2
+1466 1595 8
+1466 328 12
+1466 1593 7
+1466 1596 1
+1466 533 8
+1466 1597 2
+1466 1598 1
+6451 1591 1
+6451 536 4
+6451 1466 4
+6451 330 1
+6451 2456 3
+6451 328 6
+6451 3038 1
+6451 537 2
+6451 1596 2
+6451 1598 3
+1597 2085 15
+1597 909 5
+1597 330 6
+1597 533 5
+1597 328 2
+3741 1591 1
+3741 1466 3
+3741 3872 1
+3741 328 2
+3741 537 1
+3741 3038 1
+3741 1593 4
+3741 1596 1
+3741 3894 5
+12523 3038 1
+12523 1591 1
+12523 537 1
+12523 1593 1
+12523 1596 1
+12523 3894 4
+12523 2456 2
+1593 1591 2
+1593 1466 7
+1593 330 4
+1593 535 2
+1593 328 13
+1593 537 4
+1593 3038 1
+1593 533 9
+24092 1591 1
+24092 12523 3
+24095 6948 6
+24095 1593 3
+24095 1466 1
+24095 6947 20
+20843 1591 1
+20843 1466 3
+20843 328 1
+31298 537 1
+31298 1593 4
+31298 1466 1
+31298 533 1
+31298 3894 2
+31298 328 2
+8704 6948 1
+8704 1591 7
+8704 1932 1
+8704 1466 14
+8704 535 1
+8704 31298 2
+8704 1595 1
+8704 3038 4
+8704 1593 4
+8704 1596 1
+8704 533 3
+8704 6947 1
+1596 13891 1
+1596 12518 1
+1596 536 29
+1596 13429 1
+1596 20843 1
+1596 6905 1
+1596 3741 1
+1596 3894 1
+1596 24095 5
+1596 12523 1
+1596 6947 16
+1596 158 6
+1596 1591 23
+1596 6948 4
+1596 17195 1
+1596 1466 1
+1596 3908 1
+1596 3038 45
+1596 537 16
+1596 23820 1
+1596 533 1
+1596 6451 2
+6948 1591 1
+6948 1466 8
+6948 535 1
+6948 328 1
+6948 3038 1
+6948 1593 3
+6948 1596 1
+6948 533 3
+6948 6947 20
+6948 1598 3
+23820 6948 5
+23820 1591 1
+23820 1596 1
+23820 6947 5
+1591 536 8
+1591 4508 2
+1591 2980 1
+1591 11857 2
+1591 1596 1
+1591 8704 1
+1591 1954 1
+1591 158 4
+1591 17195 1
+1591 2149 2
+1591 56 1
+1591 496 1
+1591 3038 40
+1591 1946 4
+1591 3032 1
+1591 19027 1
+1591 533 34
+3032 1946 1
+2980 3032 4
+2980 1946 1
+2980 533 2
+27720 1591 2
+27720 1798 9
+3038 158 2
+1798 3038 3
+1798 1591 2
+1798 158 3
+1798 27720 4
+1798 1947 1
+1798 21245 3
+1798 20189 1
+20192 330 1
+20192 533 1
+20192 383 1
+18101 330 1
+18101 533 1
+18101 383 1
+25053 158 1
+25053 25061 1
+25053 11857 1
+25053 330 4
+25053 533 4
+320 330 2
+320 533 2
+320 333 1
+31395 1947 1
+31395 533 1
+31395 383 1
+31395 328 1
+6205 357 1
+6205 1946 1
+6205 1466 1
+6205 328 6
+18023 401 2
+18023 162 1
+18023 328 1
+28047 1711 1
+28047 330 2
+28047 57 1
+28047 533 1
+28047 56 1
+28047 383 1
+28047 328 4
+19027 158 1
+19027 1946 1
+19027 342 1
+19027 330 1
+19027 533 2
+19027 328 1
+14637 3034 1
+14637 330 2
+14637 533 1
+14637 383 1
+14637 328 3
+25786 1946 1
+14464 330 1
+14464 533 1
+14464 383 1
+24128 401 2
+24128 162 1
+9717 357 2
+9717 1704 5
+9717 330 3
+9717 533 2
+9717 383 1
+9717 355 2
+9717 328 5
+3188 330 1
+3188 533 1
+3188 383 1
+3188 328 2
+1944 1591 1
+1944 1947 1
+1944 1946 1
+1944 328 3
+395 401 2
+395 162 1
+395 328 1
+20389 401 2
+20389 162 1
+20389 328 1
+33554 401 4
+33554 330 1
+33554 328 1
+22366 330 1
+22366 533 1
+22366 383 1
+15634 1947 1
+15634 401 2
+1945 1591 1
+1945 1947 1
+1945 1946 1
+1945 328 4
+16008 401 2
+16008 162 1
+16008 328 1
+27416 330 1
+27416 533 1
+27416 383 1
+15057 330 2
+15057 533 2
+15057 333 1
+18193 401 2
+34455 1947 1
+34455 401 2
+30981 158 1
+30981 11857 1
+30981 330 2
+30981 533 3
+30981 9388 1
+19644 330 2
+19644 533 2
+19644 333 1
+32938 330 2
+32938 533 2
+32938 333 1
+17691 1947 1
+17691 533 1
+17691 383 1
+17691 328 1
+22382 1947 1
+22382 330 2
+22382 533 5
+22382 162 2
+22382 383 1
+22382 328 2
+9376 330 3
+9376 533 3
+9376 9388 1
+29209 1946 1
+375 330 1
+375 533 1
+375 162 1
+375 383 1
+375 328 2
+1946 1591 1
+1946 158 1
+1946 11857 1
+1946 535 3
+1946 533 3
+333 158 1
+333 11857 1
+333 533 6
+333 383 6
+9388 158 1
+9388 11857 1
+9388 533 6
+9388 333 6
+401 158 1
+401 11857 1
+401 330 2
+401 533 4
+401 383 2
+401 328 8
+25061 158 1
+25061 533 5
+25061 9388 6
+383 158 1
+383 1946 2
+383 11857 1
+383 533 9
+33723 33716 1
+33730 33716 1
+33737 33716 1
+33744 33716 1
+33751 33716 1
+33758 33716 1
+331 330 7
+7134 331 2
+7134 330 1
+1961 162 1
+1961 124 1
+1961 1975 1
+1961 156 3
+357 33730 1
+357 33723 1
+357 909 5
+357 330 10
+357 33751 1
+357 33716 8
+357 355 3
+357 33758 1
+357 33744 1
+357 1597 24
+357 33737 1
+3745 357 5
+3745 909 2
+3745 355 4
+3745 328 4
+342 357 2
+342 330 1
+1947 330 8
+1947 535 1
+330 158 1
+330 3725 2
+330 154 2
+330 535 1
+330 20189 1
+330 355 1
+330 328 7
+330 156 1
+330 1961 1
+330 533 3
+3725 357 3
+3725 330 4
+3725 162 2
+3725 3741 2
+3725 328 1
+3725 3745 3
+3725 331 2
+3725 1947 1
+4541 24092 1
+4541 330 20
+4541 533 2
+4541 328 12
+6068 158 2
+6068 4541 3
+6068 330 7
+6068 533 3
+6068 328 1
+162 1961 1
+162 330 9
+162 157 4
+162 535 1
+162 328 1
+162 156 1
+124 158 3
+124 154 2
+124 162 3
+1975 158 2
+1975 1961 1
+1975 154 19
+1975 330 3
+1975 157 3
+1975 162 4
+1975 156 1
+13305 2149 1
+13305 330 2
+13305 533 4
+4503 330 2
+4503 4508 1
+4503 533 1
+1948 1947 1
+1948 2149 1
+1948 330 2
+1948 533 2
+33396 2149 1
+33396 330 4
+33396 533 2
+20397 2149 1
+20397 330 1
+16399 2149 1
+16399 330 1
+30921 2149 1
+30921 330 1
+10247 2149 1
+10247 330 1
+1949 1947 1
+1949 2149 1
+1949 330 2
+1949 533 2
+1950 1947 1
+1950 2149 1
+1950 330 2
+1950 533 2
+1951 1947 1
+1951 2149 1
+1951 330 2
+1951 533 2
+11111 1947 1
+11111 330 1
+11111 4508 1
+11111 533 1
+22824 2149 1
+22824 330 1
+1956 1947 1
+1956 330 2
+1956 4508 1
+1956 533 1
+2149 330 5
+2149 535 2
+2149 533 21
+21890 2149 1
+21890 330 2
+21890 533 4
+1952 1947 1
+1952 2149 1
+1952 330 2
+1952 533 2
+1953 1947 1
+1953 2149 1
+1953 330 2
+18646 330 1
+18646 4508 1
+4508 330 2
+4508 535 2
+4508 533 13
+1954 357 1
+1954 158 2
+1954 329 1
+1954 535 2
+1954 56 11
+1954 328 4
+1954 1711 1
+1954 533 4
+1954 4542 5
+1954 55 4
+1954 1598 2
+20844 909 2
+20844 1954 2
+20844 533 1
+20844 1597 2
+20844 328 2
+13891 537 1
+13891 536 4
+13891 1596 1
+13891 330 1
+13891 2456 4
+13891 328 11
+17195 536 5
+17195 533 6
+17195 328 1
+537 1947 9
+537 535 1
+537 533 3
+537 328 2
+536 537 10
+536 330 13
+536 535 3
+536 533 15
+536 2456 6
+536 328 35
+496 536 8
+496 330 2
+496 535 2
+496 533 3
+15586 648 1
+15586 653 3
+655 165 3
+654 165 3
+653 165 5
+11788 648 1
+11788 653 3
+7504 648 2
+7504 165 7
+7504 3427 8
+7504 655 4
+7504 3436 10
+7504 7503 1
+7504 654 3
+7504 653 3
+556 648 3
+556 655 4
+556 653 3
+19282 648 2
+19282 165 1
+19282 896 1
+19282 654 1
+896 7504 1
+896 165 5
+896 7503 1

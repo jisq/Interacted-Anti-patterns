@@ -1,0 +1,1253 @@
+*Vertics: 301
+3,org.apache.wml.dom.WMLAElementImpl
+25,org.apache.wml.dom.WMLElementImpl
+27,org.apache.wml.dom.WMLDocumentImpl
+50,org.apache.xerces.validators.datatype.QNameDatatypeValidator
+119,org.apache.xerces.validators.schema.SchemaSymbols
+120,org.apache.xerces.utils.regex.RegularExpression
+123,org.apache.xerces.validators.datatype.AbstractDatatypeValidator
+124,org.apache.xerces.validators.datatype.InvalidDatatypeFacetException
+125,org.apache.xerces.validators.datatype.InvalidDatatypeValueException
+155,org.apache.xml.serialize.BaseMarkupSerializer
+388,org.xml.sax.SAXException
+397,org.apache.xml.serialize.ElementState
+398,org.apache.xml.serialize.EncodingInfo
+399,org.apache.xml.serialize.OutputFormat
+400,org.apache.xml.serialize.Printer
+410,org.apache.xml.serialize.IndentPrinter
+494,org.apache.xerces.utils.HexBin
+529,org.apache.html.dom.HTMLQuoteElementImpl
+538,org.apache.html.dom.HTMLElementImpl
+540,org.apache.html.dom.HTMLDocumentImpl
+552,org.apache.xerces.dom.AttrNSImpl
+575,org.apache.xerces.dom.events.MutationEventImpl
+577,org.apache.xerces.dom.AttrImpl
+579,org.w3c.dom.DOMException
+603,org.apache.xerces.readers.DefaultEntityHandler
+1080,org.apache.xerces.utils.ImplementationMessages
+1081,org.apache.xerces.utils.QName
+1082,org.apache.xerces.utils.StringPool
+1083,org.apache.xerces.utils.URI
+1084,org.apache.xerces.utils.XMLCharacterProperties
+1085,org.apache.xerces.utils.XMLMessages
+1087,org.xml.sax.InputSource
+1088,org.xml.sax.helpers.LocatorImpl
+1096,org.apache.xerces.readers.XMLDeclRecognizer
+1098,org.apache.xerces.readers.DefaultReaderFactory
+1223,org.apache.xerces.dom.DeferredDocumentImpl
+1602,org.apache.xerces.framework.XMLAttrList
+1604,org.apache.xerces.dom.DeferredAttrNSImpl
+1605,org.apache.xerces.dom.DeferredAttrImpl
+1606,org.apache.xerces.dom.DeferredCDATASectionImpl
+1607,org.apache.xerces.dom.DeferredCommentImpl
+1608,org.apache.xerces.dom.DeferredDocumentTypeImpl
+1609,org.apache.xerces.dom.DocumentTypeImpl
+1610,org.apache.xerces.dom.DeferredElementNSImpl
+1611,org.apache.xerces.dom.DeferredElementImpl
+1612,org.apache.xerces.dom.ElementImpl
+1613,org.apache.xerces.dom.DeferredEntityImpl
+1614,org.apache.xerces.dom.DeferredEntityReferenceImpl
+1615,org.apache.xerces.dom.DeferredNotationImpl
+1616,org.apache.xerces.dom.DeferredProcessingInstructionImpl
+1617,org.apache.xerces.dom.DeferredTextImpl
+1618,org.apache.xerces.dom.DeferredElementDefinitionImpl
+1622,org.apache.xerces.dom.NodeImpl
+1662,org.apache.xerces.dom.ChildNode
+1679,org.apache.xerces.dom.ParentNode
+1790,org.apache.xerces.dom.LCount
+1953,org.apache.html.dom.HTMLCollectionImpl
+1957,org.apache.html.dom.HTMLHtmlElementImpl
+1959,org.apache.html.dom.HTMLHeadElementImpl
+1961,org.apache.html.dom.HTMLTitleElementImpl
+1964,org.apache.html.dom.HTMLBodyElementImpl
+1965,org.apache.html.dom.NameNodeListImpl
+2041,javax.xml.parsers.SAXParserFactory
+2092,org.xml.sax.SAXNotRecognizedException
+2093,org.xml.sax.SAXNotSupportedException
+2094,javax.xml.parsers.SAXParser
+2095,javax.xml.parsers.FactoryConfigurationError
+2096,javax.xml.parsers.ParserConfigurationException
+2099,org.apache.xerces.validators.common.XMLValidator
+2953,org.apache.xerces.framework.XMLContentSpec
+2955,org.apache.xerces.framework.XMLDocumentScanner
+2956,org.apache.xerces.utils.ChunkyCharArray
+2957,org.apache.xerces.utils.Hash2intTable
+2958,org.apache.xerces.utils.IntStack
+2959,org.apache.xerces.utils.NamespacesScope
+2960,org.apache.xerces.parsers.DOMParser
+2961,org.xml.sax.SAXParseException
+2962,org.apache.xerces.validators.dtd.DTDGrammar
+2963,org.apache.xerces.validators.schema.SubstitutionGroupComparator
+2964,org.apache.xerces.validators.schema.SchemaGrammar
+2965,org.apache.xerces.validators.schema.SchemaMessageProvider
+2966,org.apache.xerces.validators.schema.TraverseSchema
+2967,org.apache.xerces.validators.schema.identity.Field
+2969,org.apache.xerces.validators.schema.identity.IdentityConstraint
+2970,org.apache.xerces.validators.schema.identity.Key
+2971,org.apache.xerces.validators.schema.identity.KeyRef
+2972,org.apache.xerces.validators.schema.identity.Selector
+2973,org.apache.xerces.validators.schema.identity.Unique
+2975,org.apache.xerces.validators.schema.identity.XPathMatcher
+2976,org.apache.xerces.validators.datatype.DatatypeValidatorFactoryImpl
+2977,org.apache.xerces.validators.datatype.IDREFDatatypeValidator
+2978,org.apache.xerces.validators.datatype.IDDatatypeValidator
+2979,org.apache.xerces.validators.datatype.ENTITYDatatypeValidator
+2985,org.apache.xerces.validators.common.ContentLeafNameTypeVector
+2987,org.apache.xerces.validators.common.Grammar
+2989,org.apache.xerces.validators.common.XMLAttributeDecl
+2990,org.apache.xerces.validators.common.XMLElementDecl
+2991,org.apache.xerces.validators.common.CMException
+2994,org.apache.xerces.validators.common.InsertableElementsInfo
+2998,org.apache.xerces.framework.XMLParser
+3301,org.apache.html.dom.HTMLDListElementImpl
+3353,org.apache.xerces.validators.datatype.StringDatatypeValidator
+3354,org.apache.xerces.validators.datatype.NOTATIONDatatypeValidator
+3355,org.apache.xerces.validators.datatype.BooleanDatatypeValidator
+3356,org.apache.xerces.validators.datatype.FloatDatatypeValidator
+3357,org.apache.xerces.validators.datatype.DoubleDatatypeValidator
+3358,org.apache.xerces.validators.datatype.DecimalDatatypeValidator
+3359,org.apache.xerces.validators.datatype.TimeDurationDatatypeValidator
+3360,org.apache.xerces.validators.datatype.RecurringDurationDatatypeValidator
+3361,org.apache.xerces.validators.datatype.BinaryDatatypeValidator
+3362,org.apache.xerces.validators.datatype.URIReferenceDatatypeValidator
+3363,org.apache.xerces.validators.datatype.ListDatatypeValidator
+3364,org.apache.xerces.validators.datatype.UnionDatatypeValidator
+3386,org.apache.xerces.readers.StringReader
+3529,org.apache.xerces.readers.XMLEntityReader
+3567,org.apache.html.dom.HTMLParamElementImpl
+3594,org.apache.html.dom.HTMLFieldSetElementImpl
+3774,org.apache.xerces.validators.common.GrammarResolverImpl
+3775,org.apache.xerces.validators.datatype.DatatypeMessageProvider
+4116,org.apache.xerces.framework.XMLDTDScanner
+4244,org.apache.html.dom.HTMLPreElementImpl
+5003,org.apache.html.dom.HTMLFrameElementImpl
+5053,org.apache.xerces.utils.regex.ParseException
+5060,org.xml.sax.helpers.AttributesImpl
+5213,org.apache.xerces.utils.regex.REUtil
+5290,org.apache.xerces.utils.regex.Match
+5323,org.w3c.dom.events.EventException
+5344,org.apache.html.dom.HTMLTableColElementImpl
+5381,org.apache.wml.dom.WMLDoElementImpl
+5416,org.apache.html.dom.HTMLIFrameElementImpl
+5472,org.apache.xerces.dom.NotationImpl
+5494,org.apache.wml.dom.WMLImgElementImpl
+5556,org.apache.xerces.validators.common.CMAny
+5578,org.apache.xerces.validators.common.CMNode
+5579,org.apache.xerces.validators.common.CMStateSet
+5626,org.apache.xerces.dom.RangeImpl
+5903,org.w3c.dom.ranges.RangeException
+5904,org.apache.xerces.dom.RangeExceptionImpl
+5905,org.apache.xerces.dom.TextImpl
+5906,org.apache.xerces.dom.CharacterDataImpl
+5948,org.apache.xerces.msg.DatatypeMessages
+6028,org.apache.xerces.validators.common.SimpleContentModel
+6073,org.apache.xerces.dom.ElementDefinitionImpl
+6086,org.apache.xerces.dom.NamedNodeMapImpl
+6091,org.apache.wml.dom.WMLOneventElementImpl
+6108,org.apache.html.dom.HTMLUListElementImpl
+6124,org.apache.xerces.validators.datatype.XMLException
+6135,org.apache.wml.dom.WMLSelectElementImpl
+6189,org.apache.wml.dom.WMLInputElementImpl
+6287,org.apache.html.dom.CollectionIndex
+6355,org.apache.xerces.utils.regex.ParserForXMLSchema
+6431,org.apache.xerces.utils.regex.RegexParser
+6432,org.apache.xerces.utils.regex.RangeToken
+6433,org.apache.xerces.utils.regex.Token
+6550,org.apache.html.dom.HTMLOListElementImpl
+6606,org.apache.xerces.readers.CharReader
+6642,org.apache.xerces.utils.CharDataChunk
+6643,org.apache.xerces.readers.AbstractCharReader
+6655,org.xml.sax.helpers.XMLFilterImpl
+6766,org.xml.sax.helpers.XMLReaderFactory
+6778,org.xml.sax.helpers.ParserFactory
+6779,org.xml.sax.helpers.ParserAdapter
+6787,org.apache.xerces.dom.ElementNSImpl
+6811,org.apache.xerces.dom.events.EventImpl
+7026,org.apache.xerces.validators.common.DFAContentModel
+7157,org.apache.xerces.validators.common.CMLeaf
+7158,org.apache.xerces.validators.common.CMBinOp
+7159,org.apache.xerces.validators.common.CMUniOp
+7307,org.apache.wml.dom.WMLOptionElementImpl
+7337,org.apache.wml.dom.WMLWmlElementImpl
+7368,org.apache.xerces.dom.ProcessingInstructionImpl
+7373,org.apache.xerces.readers.UTF8Recognizer
+7468,org.apache.xerces.utils.ChunkyByteArray
+7469,org.apache.xerces.readers.MIME2Java
+7514,org.apache.xerces.dom.CDATASectionImpl
+7675,org.apache.xerces.validators.schema.XUtil
+7767,org.apache.xerces.dom.AttributeMap
+7768,org.apache.xerces.dom.DeepNodeListImpl
+7792,org.apache.xerces.utils.StringHasher
+7813,org.apache.html.dom.HTMLParagraphElementImpl
+7824,org.apache.xerces.msg.ExceptionMessages
+7844,org.apache.xml.serialize.LineSeparator
+8008,org.apache.wml.dom.WMLBigElementImpl
+8055,org.apache.html.dom.HTMLButtonElementImpl
+8103,org.xml.sax.helpers.AttributeListImpl
+8141,org.apache.html.dom.HTMLFontElementImpl
+8162,org.apache.xml.serialize.SerializerFactoryImpl
+8180,org.apache.xml.serialize.SerializerFactory
+8181,org.apache.xml.serialize.Method
+8182,org.apache.xml.serialize.XMLSerializer
+8183,org.apache.xml.serialize.HTMLSerializer
+8184,org.apache.xml.serialize.XHTMLSerializer
+8185,org.apache.xml.serialize.TextSerializer
+8221,org.apache.xerces.validators.schema.identity.XPath
+8224,org.apache.xerces.validators.schema.identity.XPathException
+8237,org.apache.xml.serialize.HTMLdtd
+8321,org.apache.wml.dom.WMLFieldsetElementImpl
+8379,org.apache.html.dom.HTMLMapElementImpl
+8453,org.xml.sax.helpers.NamespaceSupport
+8516,org.apache.html.dom.HTMLOptGroupElementImpl
+8532,org.apache.html.dom.HTMLTableCellElementImpl
+8727,org.apache.html.dom.HTMLBaseElementImpl
+9254,org.apache.xerces.dom.EntityImpl
+9255,org.apache.xerces.dom.EntityReferenceImpl
+9304,org.apache.xerces.readers.StreamingCharReader
+9511,org.apache.xerces.jaxp.SAXParserFactoryImpl
+9520,org.apache.xerces.jaxp.SAXParserImpl
+9602,org.apache.html.dom.HTMLAppletElementImpl
+9971,org.apache.html.dom.HTMLModElementImpl
+10028,org.apache.html.dom.HTMLTableSectionElementImpl
+10059,org.apache.html.dom.HTMLTableRowElementImpl
+10928,org.apache.xerces.parsers.SAXParser
+11045,org.apache.wml.dom.WMLTableElementImpl
+11082,org.apache.xerces.jaxp.DocumentBuilderFactoryImpl
+11090,javax.xml.parsers.DocumentBuilder
+11091,javax.xml.parsers.DocumentBuilderFactory
+11092,org.apache.xerces.jaxp.DocumentBuilderImpl
+11125,org.apache.html.dom.HTMLSelectElementImpl
+11169,org.apache.html.dom.HTMLOptionElementImpl
+11194,org.apache.xerces.msg.ExceptionMessagesLocalizer
+11255,org.xml.sax.helpers.DefaultHandler
+11306,org.xml.sax.helpers.XMLReaderAdapter
+11417,org.apache.wml.dom.WMLAccessElementImpl
+11453,org.apache.wml.dom.WMLTemplateElementImpl
+11473,org.apache.xerces.dom.NodeIteratorImpl
+11518,org.apache.html.dom.HTMLImageElementImpl
+11588,org.apache.html.dom.HTMLHeadingElementImpl
+11644,org.apache.html.dom.HTMLTableElementImpl
+11991,org.apache.xerces.dom.CommentImpl
+11992,org.apache.xerces.dom.DocumentFragmentImpl
+11993,org.apache.xerces.dom.DOMImplementationImpl
+11994,org.apache.xerces.dom.TreeWalkerImpl
+12022,org.apache.wml.dom.WMLBElementImpl
+12023,org.apache.wml.dom.WMLNoopElementImpl
+12024,org.apache.wml.dom.WMLSetvarElementImpl
+12025,org.apache.wml.dom.WMLStrongElementImpl
+12026,org.apache.wml.dom.WMLPostfieldElementImpl
+12027,org.apache.wml.dom.WMLTrElementImpl
+12028,org.apache.wml.dom.WMLGoElementImpl
+12029,org.apache.wml.dom.WMLAnchorElementImpl
+12030,org.apache.wml.dom.WMLTimerElementImpl
+12031,org.apache.wml.dom.WMLSmallElementImpl
+12032,org.apache.wml.dom.WMLOptgroupElementImpl
+12033,org.apache.wml.dom.WMLHeadElementImpl
+12034,org.apache.wml.dom.WMLTdElementImpl
+12035,org.apache.wml.dom.WMLRefreshElementImpl
+12036,org.apache.wml.dom.WMLPrevElementImpl
+12037,org.apache.wml.dom.WMLMetaElementImpl
+12038,org.apache.wml.dom.WMLBrElementImpl
+12039,org.apache.wml.dom.WMLUElementImpl
+12040,org.apache.wml.dom.WMLPElementImpl
+12041,org.apache.wml.dom.WMLEmElementImpl
+12042,org.apache.wml.dom.WMLIElementImpl
+12043,org.apache.wml.dom.WMLCardElementImpl
+12057,org.apache.html.dom.HTMLFormElementImpl
+12101,org.apache.html.dom.HTMLObjectElementImpl
+12490,org.xml.sax.HandlerBase
+12672,org.apache.html.dom.HTMLDivElementImpl
+12680,org.apache.html.dom.HTMLInputElementImpl
+12827,org.apache.xerces.readers.UTF8Reader
+12828,org.apache.xerces.readers.UTF8CharReader
+13128,org.apache.xerces.msg.SchemaMessages
+13437,org.apache.xerces.utils.UTF8DataChunk
+13799,org.apache.xerces.readers.EBCDICRecognizer
+13918,org.apache.xerces.utils.regex.Op
+14053,org.apache.html.dom.HTMLLabelElementImpl
+14101,org.apache.xerces.readers.XMLCatalogHandler
+14847,org.apache.html.dom.HTMLDirectoryElementImpl
+14875,org.apache.xerces.utils.SymbolCache
+14936,org.apache.xerces.validators.common.MixedContentModel
+15005,org.apache.wml.dom.WMLDOMImplementationImpl
+15060,org.apache.xerces.domx.XGrammarWriter
+15312,org.apache.xerces.utils.Base64
+15430,org.apache.html.dom.HTMLMetaElementImpl
+15462,org.apache.html.dom.HTMLBuilder
+15526,org.apache.xerces.framework.Version
+15668,org.apache.html.dom.HTMLMenuElementImpl
+15769,org.apache.xerces.msg.ImplementationMessages
+15888,org.apache.html.dom.HTMLAnchorElementImpl
+15986,org.apache.html.dom.HTMLAreaElementImpl
+16054,org.apache.xerces.readers.UCSRecognizer
+16069,org.apache.xerces.readers.UCSReader
+16102,org.apache.html.dom.HTMLTableCaptionElementImpl
+16110,org.apache.html.dom.HTMLBaseFontElementImpl
+16290,org.apache.xml.serialize.Encodings
+16912,org.apache.xerces.utils.regex.BMPattern
+17768,org.apache.html.dom.HTMLLinkElementImpl
+18126,org.apache.html.dom.HTMLLIElementImpl
+18147,org.apache.xml.serialize.SieveEncodingInfo
+18276,org.apache.html.dom.HTMLLegendElementImpl
+18328,org.apache.xerces.utils.ISO8601Format
+18950,org.apache.html.dom.HTMLFrameSetElementImpl
+19031,org.apache.html.dom.HTMLBRElementImpl
+19313,org.apache.html.dom.HTMLTextAreaElementImpl
+19559,org.apache.xerces.readers.XCatalog
+19739,org.apache.html.dom.HTMLHRElementImpl
+19756,org.apache.html.dom.HTMLIsIndexElementImpl
+19984,org.apache.html.dom.HTMLStyleElementImpl
+20111,org.apache.html.dom.HTMLDOMImplementationImpl
+20188,org.apache.xerces.msg.XMLMessages
+20193,org.apache.html.dom.HTMLScriptElementImpl
+*Edges: 950
+11090 1087 6
+11091 11090 1
+11091 2095 1
+2094 12490 5
+2094 1087 12
+2094 11255 5
+2041 2095 1
+2041 2094 1
+15888 538 16
+15888 1612 11
+15888 540 1
+9602 538 13
+9602 1612 11
+9602 540 1
+15986 538 13
+15986 1612 6
+15986 540 1
+19031 538 4
+19031 1612 1
+19031 540 1
+8727 538 4
+8727 1612 2
+8727 540 1
+16110 538 7
+16110 1612 3
+16110 540 1
+1964 538 8
+1964 1612 6
+1964 540 1
+15462 7368 3
+15462 1622 6
+15462 388 10
+15462 1679 1
+15462 5905 3
+15462 1612 3
+15462 540 4
+15462 1662 2
+8055 538 10
+8055 1612 3
+8055 540 1
+1953 6287 4
+3301 538 4
+3301 540 1
+20111 11993 1
+20111 540 1
+14847 538 4
+14847 540 1
+12672 538 4
+12672 1612 1
+12672 540 1
+540 1965 1
+540 1959 1
+540 538 1
+540 1964 1
+540 1961 1
+540 1957 1
+540 1622 3
+540 1679 4
+540 1953 10
+538 1612 11
+538 1662 1
+538 540 1
+3594 538 2
+3594 540 1
+8141 538 7
+8141 1612 3
+8141 540 1
+12057 1679 1
+12057 1953 2
+12057 538 9
+12057 1612 6
+12057 540 1
+5003 538 12
+5003 1612 7
+5003 540 1
+18950 538 4
+18950 1612 2
+18950 540 1
+19739 538 8
+19739 1612 3
+19739 540 1
+1959 538 3
+1959 1612 1
+1959 540 1
+11588 538 3
+11588 1612 1
+11588 540 1
+1957 538 4
+1957 1612 1
+1957 540 1
+5416 538 14
+5416 1612 10
+5416 540 1
+11518 538 17
+11518 1612 12
+11518 540 1
+12680 538 25
+12680 1612 10
+12680 540 1
+19756 538 3
+19756 1612 1
+19756 540 1
+18126 538 5
+18126 1612 1
+18126 540 1
+14053 538 4
+14053 1612 2
+14053 540 1
+18276 538 4
+18276 1612 2
+18276 540 1
+17768 538 12
+17768 1612 8
+17768 540 1
+8379 1953 1
+8379 538 3
+8379 1612 1
+8379 540 1
+15668 538 4
+15668 540 1
+15430 538 6
+15430 1612 4
+15430 540 1
+9971 538 4
+9971 1612 2
+9971 540 1
+6550 538 7
+6550 1612 1
+6550 540 1
+12101 538 21
+12101 1612 15
+12101 540 1
+8516 538 6
+8516 1612 1
+8516 540 1
+11169 1679 6
+11169 538 11
+11169 1612 2
+11169 1662 3
+11169 540 1
+7813 538 3
+7813 1612 1
+7813 540 1
+3567 538 7
+3567 1612 4
+3567 540 1
+4244 538 4
+4244 540 1
+529 538 3
+529 1612 1
+529 540 1
+20193 1679 6
+20193 538 9
+20193 1612 5
+20193 540 1
+11125 11169 1
+11125 1679 2
+11125 1953 1
+11125 538 16
+11125 1612 2
+11125 540 1
+19984 538 6
+19984 1612 2
+19984 540 1
+16102 538 3
+16102 1612 1
+16102 540 1
+8532 538 21
+8532 1612 11
+8532 1662 2
+8532 540 1
+5344 538 11
+5344 1612 5
+5344 540 1
+11644 538 14
+11644 16102 1
+11644 10028 4
+11644 1622 7
+11644 1679 14
+11644 10059 2
+11644 1953 4
+11644 1612 9
+11644 540 1
+10059 1679 7
+10059 8532 1
+10059 11644 1
+10059 1953 1
+10059 538 9
+10059 1612 5
+10059 10028 1
+10059 1662 4
+10059 1622 2
+10059 540 1
+10028 10059 3
+10028 1679 5
+10028 1953 2
+10028 538 8
+10028 1612 4
+10028 1622 1
+10028 540 1
+19313 538 17
+19313 1612 4
+19313 540 1
+1961 1679 6
+1961 538 2
+1961 540 1
+6108 538 5
+6108 1612 1
+6108 540 1
+1965 7768 2
+1965 1612 1
+1965 1622 1
+3 25 2
+3 27 1
+3 1612 10
+11417 25 2
+11417 27 1
+11417 1612 8
+12029 25 2
+12029 27 1
+12029 1612 8
+12022 25 2
+12022 27 1
+12022 1612 6
+8008 25 2
+8008 27 1
+8008 1612 6
+12038 25 2
+12038 27 1
+12038 1612 6
+12043 25 6
+12043 27 1
+12043 1612 14
+15005 11993 2
+15005 27 1
+15005 1622 1
+5381 25 2
+5381 27 1
+5381 1612 14
+27 25 1
+25 27 1
+25 1612 12
+12041 25 2
+12041 27 1
+12041 1612 6
+8321 25 2
+8321 27 1
+8321 1612 8
+12028 25 2
+12028 27 1
+12028 1612 12
+12033 25 2
+12033 27 1
+12033 1612 4
+12042 25 2
+12042 27 1
+12042 1612 6
+5494 25 2
+5494 27 1
+5494 1612 22
+6189 25 10
+6189 27 1
+6189 1612 16
+12037 25 4
+12037 27 1
+12037 1612 12
+12023 25 2
+12023 27 1
+12023 1612 4
+6091 25 2
+6091 27 1
+6091 1612 6
+12032 25 2
+12032 27 1
+12032 1612 8
+7307 25 2
+7307 27 1
+7307 1612 12
+12040 25 2
+12040 27 1
+12040 1612 10
+12026 25 2
+12026 27 1
+12026 1612 8
+12036 25 2
+12036 27 1
+12036 1612 4
+12035 25 2
+12035 27 1
+12035 1612 4
+6135 25 6
+6135 27 1
+6135 1612 16
+12024 25 2
+12024 27 1
+12024 1612 8
+12031 25 2
+12031 27 1
+12031 1612 6
+12025 25 2
+12025 27 1
+12025 1612 6
+11045 25 4
+11045 27 1
+11045 1612 10
+12034 25 2
+12034 27 1
+12034 1612 6
+11453 25 2
+11453 27 1
+11453 1612 10
+12030 25 2
+12030 27 1
+12030 1612 8
+12027 25 2
+12027 27 1
+12027 1612 4
+12039 25 2
+12039 27 1
+12039 1612 6
+7337 25 2
+7337 27 1
+7337 1612 6
+577 5905 1
+577 1223 5
+577 1790 8
+577 579 10
+577 1662 7
+577 1622 110
+552 579 10
+552 577 3
+552 1622 10
+7767 6086 22
+7767 1790 2
+7767 1612 3
+7767 579 12
+7767 577 2
+7767 575 2
+7767 1622 49
+7514 5905 2
+5906 1790 2
+5906 579 8
+5906 1662 2
+5906 1622 30
+1662 1622 8
+11991 5906 2
+11993 1609 1
+11993 579 3
+11993 1622 1
+7768 1612 1
+7768 1622 11
+1605 1223 4
+1605 1082 1
+1605 577 3
+1605 1622 5
+1604 552 2
+1604 1223 5
+1604 1082 2
+1604 577 1
+1604 1622 5
+1606 1223 3
+1606 7514 2
+1606 1622 4
+1607 1223 2
+1607 11991 2
+1607 1622 3
+1223 1607 1
+1223 1616 1
+1223 1615 1
+1223 1611 1
+1223 1618 1
+1223 1610 1
+1223 1608 1
+1223 1613 1
+1223 1602 8
+1223 1622 9
+1223 1604 1
+1223 1679 1
+1223 1614 1
+1223 1082 16
+1223 1617 1
+1223 1605 1
+1223 1606 1
+1608 1679 5
+1608 1223 10
+1608 6086 6
+1608 1609 3
+1608 1082 3
+1608 1622 4
+1618 6073 2
+1618 1223 5
+1618 6086 2
+1618 1622 4
+1611 1679 1
+1611 1223 6
+1611 1082 1
+1611 1612 4
+1611 1622 2
+1610 1679 1
+1610 1223 7
+1610 6787 2
+1610 1082 2
+1610 1612 2
+1610 1622 2
+1613 9254 2
+1613 1679 2
+1613 1223 8
+1613 1082 3
+1613 1622 5
+1614 9255 3
+1614 1679 4
+1614 1223 2
+1614 1622 8
+1615 5472 2
+1615 1223 7
+1615 1082 2
+1615 1622 3
+1616 1223 3
+1616 7368 2
+1616 1622 3
+1617 5905 2
+1617 1223 3
+1617 1622 4
+11992 1679 2
+1609 1679 9
+1609 6086 15
+1609 1622 16
+6073 1679 4
+6073 6086 3
+6073 1622 3
+1612 7767 15
+1612 7768 2
+1612 579 10
+1612 1622 34
+1612 1679 10
+1612 6073 1
+1612 1609 1
+1612 6086 10
+6787 1679 1
+6787 1612 7
+6787 579 7
+6787 1622 5
+9254 1679 3
+9254 1622 15
+9255 1679 12
+9255 1622 4
+6086 579 8
+6086 1622 13
+1622 6811 1
+1622 1790 5
+1622 579 4
+1622 577 5
+1622 575 1
+1622 5323 1
+1622 1662 1
+11473 579 2
+5472 579 2
+5472 1622 14
+1679 1223 3
+1679 1790 7
+1679 579 8
+1679 577 3
+1679 1662 15
+1679 1622 61
+7368 5906 3
+7368 1622 6
+5904 5903 2
+5626 5904 12
+5626 5906 2
+5626 579 19
+5905 5906 2
+5905 579 2
+5905 1662 1
+5905 1622 10
+575 6811 2
+15060 2960 3
+15060 7469 1
+15060 7675 19
+15060 2998 1
+1602 1082 21
+1602 1081 3
+2953 1082 13
+4116 2990 1
+4116 2989 1
+4116 2962 63
+4116 1084 7
+4116 2987 5
+4116 1082 54
+4116 603 12
+4116 1081 20
+2955 2956 2
+2955 1084 2
+2955 4116 15
+2955 1082 15
+2955 603 1
+2955 1602 3
+2955 1081 13
+2998 3774 2
+2998 2099 22
+2998 2092 7
+2998 1096 1
+2998 2955 13
+2998 2961 5
+2998 1087 5
+2998 2956 3
+2998 388 3
+2998 1082 5
+2998 603 11
+2998 2093 19
+11082 11092 1
+11082 11091 4
+11092 2960 5
+11092 388 2
+11092 11090 2
+11092 2096 2
+11092 2998 3
+9511 9520 1
+9511 2041 4
+9511 2092 2
+9520 10928 3
+9520 388 2
+9520 2092 2
+9520 2096 2
+9520 2094 2
+2960 9254 5
+2960 2092 1
+2960 2987 2
+2960 1622 2
+2960 5472 2
+2960 5905 3
+2960 1223 142
+2960 1609 3
+2960 1082 246
+2960 577 12
+2960 2093 5
+2960 2953 7
+2960 1602 66
+2960 6073 2
+2960 1679 4
+2960 388 6
+2960 7675 21
+2960 1081 6
+2960 2998 13
+10928 2953 1
+10928 5060 3
+10928 1082 67
+10928 2093 8
+10928 1602 11
+10928 1081 6
+10928 2998 14
+6643 6642 28
+6643 7792 4
+6643 1084 9
+6643 1080 1
+6643 3529 3
+6643 1082 2
+6643 1081 5
+6606 6643 2
+6606 6642 3
+6606 1082 1
+603 1087 10
+603 1098 1
+603 1084 2
+603 1096 1
+603 1082 22
+603 1083 5
+1098 1087 8
+1098 3386 1
+1098 12828 1
+1098 7468 1
+1098 1096 4
+1098 1082 4
+1098 12827 1
+1098 6606 2
+13799 7468 7
+13799 1096 2
+13799 1082 2
+13799 7469 1
+9304 6642 30
+9304 7792 4
+9304 1084 9
+9304 1080 1
+9304 3529 3
+9304 1082 2
+9304 1081 5
+3386 1084 6
+3386 3529 4
+3386 1082 10
+3386 1081 4
+16069 2956 5
+16069 7792 2
+16069 7468 7
+16069 1084 6
+16069 3529 11
+16069 1082 6
+16069 1081 4
+16054 16069 6
+16054 7468 11
+16054 1096 1
+12828 6643 10
+12828 6642 3
+12828 1082 1
+12827 13437 51
+12827 1084 9
+12827 3529 3
+12827 1082 10
+12827 1081 6
+7373 7468 13
+7373 1096 2
+7373 1082 2
+7373 7469 1
+19559 1087 4
+19559 14101 4
+14101 1087 4
+1096 7468 1
+1096 1082 1
+6642 7792 1
+6642 1080 2
+6642 1082 7
+2956 6642 8
+2956 1082 2
+1082 7792 2
+1082 14875 13
+13437 7792 7
+13437 1080 2
+13437 1082 9
+5290 5213 1
+13918 6433 1
+13918 6432 1
+6355 6431 61
+6355 6433 30
+6355 6432 16
+5213 5053 3
+5213 120 9
+5213 5290 6
+6432 6433 7
+6431 5213 9
+6431 5053 2
+6431 6433 116
+6431 6432 28
+120 6432 41
+120 5213 47
+120 6431 2
+120 6433 42
+120 6355 1
+120 5290 71
+120 13918 101
+120 16912 9
+6433 5213 3
+6433 6432 20
+5556 5578 2
+5556 1082 2
+5556 5579 4
+7158 5578 30
+7158 2991 4
+7158 5579 8
+7157 5578 3
+7157 1082 3
+7157 5579 4
+7157 1081 7
+5578 5579 10
+5579 2991 5
+7159 5578 12
+7159 2991 1
+7159 5579 2
+2985 1081 3
+7026 5578 41
+7026 2963 3
+7026 7157 10
+7026 7159 4
+7026 5556 2
+7026 7158 12
+7026 2994 1
+7026 2985 4
+7026 2991 2
+7026 1081 16
+7026 5579 20
+2987 5578 4
+2987 2953 12
+2987 7157 2
+2987 2990 3
+2987 2989 3
+2987 7159 2
+2987 5556 3
+2987 14936 1
+2987 7158 3
+2987 7026 1
+2987 2957 5
+2987 1082 2
+2987 2991 7
+2987 6028 3
+2987 1081 21
+3774 2976 3
+3774 2987 4
+2994 1081 2
+14936 2963 2
+14936 2994 1
+14936 2985 1
+14936 1081 9
+6028 2963 10
+6028 2994 1
+6028 2985 1
+6028 2991 4
+6028 1081 15
+2989 1081 3
+2990 1081 3
+2099 2975 10
+2099 2960 5
+2099 125 22
+2099 2990 1
+2099 2989 4
+2099 2092 1
+2099 2987 31
+2099 2955 7
+2099 2985 1
+2099 2969 6
+2099 2991 4
+2099 2967 3
+2099 1082 165
+2099 2976 12
+2099 603 9
+2099 2093 1
+2099 2953 1
+2099 2963 1
+2099 2964 7
+2099 2962 5
+2099 1088 8
+2099 1602 79
+2099 2966 1
+2099 1087 2
+2099 2994 1
+2099 388 2
+2099 2972 2
+2099 2959 13
+2099 1081 44
+2099 2998 4
+3361 125 2
+3361 15312 1
+3361 124 8
+3361 123 1
+3361 494 1
+3355 125 2
+3355 120 3
+3355 3775 2
+3355 124 1
+3355 123 1
+2976 3362 1
+2976 3355 1
+2976 3354 1
+2976 3359 1
+2976 3358 2
+2976 3364 1
+2976 3360 1
+2976 3353 5
+2976 3357 1
+2976 3356 1
+2976 2977 2
+2976 2979 2
+2976 124 2
+2976 3361 1
+2976 2978 1
+2976 3363 1
+2976 50 1
+3358 125 1
+3358 120 4
+3358 3775 1
+3358 124 6
+3358 123 1
+3357 125 6
+3357 120 3
+3357 3775 2
+3357 124 8
+3357 123 1
+2979 125 5
+2979 1082 2
+2979 123 1
+2979 603 2
+3356 125 6
+3356 120 3
+3356 3775 2
+3356 124 9
+3356 123 1
+2978 125 6
+2978 3775 2
+2978 1084 1
+2978 123 1
+2977 125 6
+2977 3775 2
+2977 1084 1
+2977 123 1
+124 6124 5
+125 6124 5
+3363 3357 1
+3363 3356 1
+3363 125 7
+3363 3358 1
+3363 120 1
+3363 124 9
+3363 123 1
+3354 123 1
+50 125 7
+50 120 3
+50 124 10
+50 123 1
+3360 125 11
+3360 120 2
+3360 3775 2
+3360 124 12
+3360 123 1
+3353 125 9
+3353 120 3
+3353 124 11
+3353 123 1
+3359 125 9
+3359 120 2
+3359 3775 2
+3359 124 10
+3359 123 1
+3362 125 2
+3362 120 3
+3362 124 8
+3362 123 1
+3362 1083 1
+3364 120 2
+3364 124 2
+3364 123 1
+2962 2953 6
+2962 2990 4
+2962 2989 2
+2962 1082 53
+2962 2987 18
+2962 1081 13
+2964 2953 1
+2964 2990 1
+2964 2989 1
+2964 2959 3
+2964 2976 3
+2964 2987 13
+2964 1081 7
+2963 2964 1
+2963 388 1
+2963 1082 6
+2963 2987 1
+2963 1081 2
+2966 2960 12
+2966 125 1
+2966 2990 5
+2966 2989 10
+2966 2973 1
+2966 2092 3
+2966 2971 1
+2966 2987 22
+2966 399 1
+2966 2969 3
+2966 2967 2
+2966 1082 116
+2966 2976 14
+2966 2093 3
+2966 8224 2
+2966 2953 1
+2966 3774 1
+2966 2964 97
+2966 1087 8
+2966 2970 1
+2966 388 3
+2966 2972 2
+2966 2959 9
+2966 7675 72
+2966 1081 19
+2966 2998 9
+7675 577 1
+2967 8221 2
+2967 2975 1
+2967 2969 3
+2969 2972 3
+2969 2967 3
+2970 2969 2
+2971 2969 2
+2972 8221 2
+2972 2975 1
+2972 2969 3
+2973 2969 2
+8221 8224 9
+8221 2959 4
+8221 1082 11
+8221 1081 2
+2975 8221 3
+2975 2958 4
+2975 2959 3
+2975 1082 12
+2975 1602 8
+2975 1081 6
+155 399 10
+155 398 3
+155 397 5
+155 400 108
+155 410 1
+16290 398 3
+16290 18147 1
+8183 8237 3
+8183 155 12
+8183 399 9
+8183 400 26
+410 399 11
+410 400 2
+399 16290 1
+399 398 4
+400 399 2
+8180 399 3
+8162 8185 1
+8162 8182 1
+8162 399 1
+8162 8184 1
+8162 8183 1
+8162 8180 1
+18147 398 2
+8185 155 18
+8185 399 2
+8185 400 2
+8184 155 2
+8184 399 8
+8184 8183 6
+8182 155 15
+8182 399 12
+8182 400 17
+12490 1087 1
+12490 2961 3
+2092 388 2
+2093 388 2
+2961 388 5
+11255 1087 1
+11255 2961 3
+6779 2092 4
+6779 5060 9
+6779 2961 2
+6779 1087 2
+6779 388 6
+6779 8453 8
+6779 6778 1
+6779 2093 3
+6655 1087 3
+6655 2092 4
+6655 2961 3
+11306 1087 2
+11306 388 1
+11306 6766 1
+11306 2093 1
+6766 6779 1
+6766 388 5
+6766 6778 1
