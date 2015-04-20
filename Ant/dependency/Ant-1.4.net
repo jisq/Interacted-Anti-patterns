@@ -1,0 +1,1449 @@
+*Vertics: 329
+4,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.SourceDir
+18,org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool
+19,org.apache.tools.ant.taskdefs.optional.depend.constantpool.Utf8CPInfo
+22,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.AttributeInfo
+41,org.apache.tools.ant.BuildException
+42,org.apache.tools.ant.Task
+46,org.apache.tools.ant.taskdefs.optional.ejb.EjbJar
+48,org.apache.tools.ant.taskdefs.optional.ccm.Continuus
+78,org.apache.tools.ant.taskdefs.Execute
+79,org.apache.tools.ant.taskdefs.LogStreamHandler
+81,org.apache.tools.ant.types.Commandline
+83,org.apache.tools.ant.Project
+99,org.apache.tools.ant.taskdefs.Move
+157,org.apache.tools.ant.taskdefs.Copy
+158,org.apache.tools.ant.types.FilterSetCollection
+159,org.apache.tools.ant.types.FileSet
+160,org.apache.tools.ant.types.FilterSet
+161,org.apache.tools.ant.util.FileUtils
+184,org.apache.tools.ant.taskdefs.optional.ejb.BorlandGenerateClient
+225,org.apache.tools.ant.taskdefs.ExecTask
+226,org.apache.tools.ant.taskdefs.Java
+228,org.apache.tools.ant.types.Path
+229,org.apache.tools.ant.types.Reference
+251,org.apache.tools.ant.taskdefs.StreamPumper
+270,org.apache.tools.ant.types.CommandlineJava
+356,org.apache.tools.ant.types.Environment
+372,org.apache.tools.ant.taskdefs.PathConvert
+441,org.apache.tools.ant.taskdefs.optional.ejb.JbossDeploymentTool
+453,org.apache.tools.ant.taskdefs.optional.ejb.GenericDeploymentTool
+467,org.apache.tools.ant.taskdefs.Javac
+469,org.apache.tools.ant.taskdefs.optional.jlink.ClassNameReader
+483,org.apache.tools.ant.taskdefs.optional.jlink.ConstantPool
+516,org.apache.tools.zip.ZipLong
+533,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.LineNumberTable
+549,org.apache.tools.ant.util.regexp.JakartaRegexpMatcher
+576,org.apache.tools.ant.taskdefs.optional.Test
+599,org.apache.tools.zip.ZipShort
+616,org.apache.tools.ant.taskdefs.optional.ejb.InnerClassFilenameFilter
+626,org.apache.tools.ant.types.ZipFileSet
+645,org.apache.tools.ant.DirectoryScanner
+646,org.apache.tools.ant.types.ZipScanner
+656,org.apache.tools.ant.taskdefs.optional.ccm.CCMReconfigure
+700,org.apache.tools.ant.BuildEvent
+772,org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPoolEntry
+773,org.apache.tools.ant.taskdefs.optional.depend.constantpool.ClassCPInfo
+774,org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantCPInfo
+775,org.apache.tools.ant.taskdefs.optional.depend.constantpool.FieldRefCPInfo
+776,org.apache.tools.ant.taskdefs.optional.depend.constantpool.InterfaceMethodRefCPInfo
+777,org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodRefCPInfo
+778,org.apache.tools.ant.taskdefs.optional.depend.constantpool.NameAndTypeCPInfo
+808,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.ClassFile
+856,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.FieldInfoList
+857,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.InterfaceList
+858,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.MethodInfoList
+859,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.AttributeInfoList
+860,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.SourceFile
+861,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.MethodInfo
+862,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.Utils
+863,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.Code
+892,org.apache.tools.ant.taskdefs.optional.TraXLiaison
+1123,org.apache.tools.ant.taskdefs.optional.ejb.DescriptorHandler
+1125,org.apache.tools.ant.Location
+1126,org.apache.tools.ant.ProjectComponent
+1127,org.apache.tools.ant.types.EnumeratedAttribute
+1129,org.apache.tools.ant.AntClassLoader
+1163,org.apache.tools.ant.taskdefs.optional.sitraka.XMLReport
+1224,org.apache.tools.ant.taskdefs.optional.sitraka.ReportFilters
+1225,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.ClassPathLoader
+1229,org.apache.tools.ant.taskdefs.optional.sitraka.CovMerge
+1285,org.apache.tools.ant.taskdefs.optional.ccm.CCMCheck
+1309,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.InnerClasses
+1320,org.apache.tools.ant.taskdefs.optional.junit.XMLResultAggregator
+1345,org.apache.tools.ant.util.DOMElementWriter
+1348,org.apache.tools.ant.taskdefs.optional.junit.AggregateTransformer
+1352,org.apache.tools.ant.taskdefs.optional.ejb.EjbcHelper
+1417,org.apache.tools.ant.PathTokenizer
+1432,org.apache.tools.ant.taskdefs.Available
+1486,org.apache.tools.ant.taskdefs.optional.ANTLR
+1562,org.apache.tools.ant.taskdefs.optional.jlink.jlink
+1679,org.apache.tools.ant.taskdefs.optional.net.TelnetTask
+1756,org.apache.tools.ant.taskdefs.MatchingTask
+1758,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.LocalVariableTable
+1782,org.apache.tools.ant.taskdefs.optional.depend.Depend
+1930,org.apache.tools.ant.taskdefs.optional.depend.ClassFile
+1931,org.apache.tools.ant.taskdefs.optional.depend.ClassFileUtils
+1939,org.apache.tools.ant.taskdefs.optional.sitraka.CovReport
+2023,org.apache.tools.ant.taskdefs.Touch
+2063,org.apache.tools.ant.types.Description
+2069,org.apache.tools.ant.types.DataType
+2071,org.apache.tools.ant.util.RegexpPatternMapper
+2091,org.apache.tools.ant.util.regexp.RegexpMatcherFactory
+2100,org.apache.tools.ant.taskdefs.JikesOutputParser
+2138,org.apache.tools.ant.taskdefs.optional.ejb.IPlanetEjbcTask
+2192,org.apache.tools.ant.taskdefs.optional.ejb.IPlanetEjbc
+2200,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.ConstantValue
+2211,org.apache.tools.ant.taskdefs.optional.vss.MSVSSCHECKIN
+2245,org.apache.tools.ant.taskdefs.optional.vss.MSVSS
+2258,org.apache.tools.ant.taskdefs.compilers.Jvc
+2263,org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter
+2388,org.apache.tools.ant.util.GlobPatternMapper
+2389,org.apache.tools.ant.util.SourceFileScanner
+2390,org.apache.tools.ant.taskdefs.compilers.CompilerAdapterFactory
+2398,org.apache.tools.ant.taskdefs.Delete
+2467,org.apache.tools.ant.types.PatternSet
+2491,org.apache.tools.ant.taskdefs.Filter
+2530,org.apache.tools.mail.MailMessage
+2606,org.apache.tools.mail.MailPrintStream
+2626,org.apache.tools.mail.SmtpResponseReader
+2636,org.apache.tools.ant.taskdefs.condition.ConditionBase
+2665,org.apache.tools.ant.taskdefs.UpToDate
+2666,org.apache.tools.ant.taskdefs.condition.And
+2667,org.apache.tools.ant.taskdefs.condition.Equals
+2668,org.apache.tools.ant.taskdefs.condition.Not
+2669,org.apache.tools.ant.taskdefs.condition.Or
+2670,org.apache.tools.ant.taskdefs.condition.Os
+2674,org.apache.tools.ant.listener.Log4jListener
+2715,org.apache.tools.ant.Target
+2725,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.Synthetic
+2731,org.apache.tools.ant.taskdefs.KeySubst
+2770,org.apache.tools.ant.taskdefs.optional.sitraka.Coverage
+2872,org.apache.tools.ant.taskdefs.optional.sitraka.Filters
+2873,org.apache.tools.ant.taskdefs.optional.sitraka.Socket
+2874,org.apache.tools.ant.taskdefs.optional.sitraka.Triggers
+2882,org.apache.tools.ant.taskdefs.optional.perforce.P4Change
+2902,org.apache.tools.ant.taskdefs.optional.perforce.P4Base
+2906,org.apache.tools.ant.taskdefs.optional.perforce.P4HandlerAdapter
+2911,org.apache.tools.ant.taskdefs.Cvs
+2965,org.apache.tools.ant.taskdefs.LogOutputStream
+2966,org.apache.tools.ant.taskdefs.PumpStreamHandler
+2976,org.apache.tools.ant.taskdefs.optional.perforce.SimpleP4OutputHandler
+2985,org.apache.tools.zip.ZipEntry
+3056,org.apache.tools.zip.ExtraFieldUtils
+3062,org.apache.tools.ant.taskdefs.CallTarget
+3078,org.apache.tools.ant.taskdefs.Ant
+3079,org.apache.tools.ant.taskdefs.Property
+3097,org.apache.tools.ant.taskdefs.Javadoc
+3384,org.apache.tools.ant.ProjectHelper
+3387,org.apache.tools.ant.taskdefs.GenerateKey
+3460,org.apache.tools.ant.taskdefs.Sleep
+3574,org.apache.tools.ant.taskdefs.optional.depend.constantpool.FloatCPInfo
+3583,org.apache.tools.ant.taskdefs.optional.ccm.CCMCheckinDefault
+3588,org.apache.tools.ant.taskdefs.optional.Native2Ascii
+3634,org.apache.tools.ant.types.Mapper
+3635,org.apache.tools.ant.util.IdentityMapper
+3641,org.apache.tools.ant.taskdefs.Recorder
+3672,org.apache.tools.ant.taskdefs.RecorderEntry
+3679,org.apache.tools.ant.taskdefs.FixCRLF
+3936,org.apache.tools.ant.taskdefs.optional.sound.SoundTask
+3966,org.apache.tools.ant.taskdefs.optional.sound.AntSoundPlayer
+3974,org.apache.tools.ant.taskdefs.optional.pvcs.Pvcs
+4064,org.apache.tools.ant.taskdefs.optional.pvcs.PvcsProject
+4067,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.Deprecated
+4072,org.apache.tools.ant.taskdefs.GUnzip
+4092,org.apache.tools.ant.taskdefs.optional.depend.constantpool.LongCPInfo
+4129,org.apache.tools.ant.taskdefs.optional.clearcase.CCCheckout
+4188,org.apache.tools.ant.taskdefs.optional.clearcase.ClearCase
+4199,org.apache.tools.ant.taskdefs.optional.ide.VAJAntTool
+4226,org.apache.tools.ant.taskdefs.optional.ide.VAJBuildInfo
+4227,org.apache.tools.ant.taskdefs.optional.ide.VAJAntToolGUI
+4228,org.apache.tools.ant.taskdefs.optional.ide.VAJUtil
+4237,org.apache.tools.ant.NoBannerLogger
+4245,org.apache.tools.ant.DefaultLogger
+4254,org.apache.tools.ant.taskdefs.XSLTProcess
+4351,org.apache.tools.ant.taskdefs.Transform
+4352,org.apache.tools.ant.taskdefs.ExecuteOn
+4380,org.apache.tools.ant.taskdefs.optional.depend.DirectoryIterator
+4408,org.apache.tools.ant.taskdefs.War
+4430,org.apache.tools.ant.taskdefs.Jar
+4431,org.apache.tools.zip.ZipOutputStream
+4442,org.apache.tools.ant.taskdefs.optional.vss.MSVSSLABEL
+4481,org.apache.tools.ant.taskdefs.Rmic
+4541,org.apache.tools.ant.taskdefs.optional.jsp.WLJspc
+4597,org.apache.tools.ant.taskdefs.optional.metamata.MMetrics
+4626,org.apache.tools.ant.taskdefs.optional.metamata.AbstractMetamataTask
+4628,org.apache.tools.ant.taskdefs.optional.metamata.MMetricsStreamHandler
+4642,org.apache.tools.ant.taskdefs.optional.junit.BatchTest
+4677,org.apache.tools.ant.taskdefs.optional.junit.BaseTest
+4678,org.apache.tools.ant.taskdefs.optional.junit.JUnitTest
+4679,org.apache.tools.ant.taskdefs.optional.junit.Enumerations
+4680,org.apache.tools.ant.taskdefs.optional.junit.FormatterElement
+4704,org.apache.tools.ant.taskdefs.Get
+4756,org.apache.tools.ant.taskdefs.Echo
+4831,org.apache.tools.ant.taskdefs.optional.RenameExtensions
+4937,org.apache.tools.ant.util.MergingMapper
+4946,org.apache.tools.ant.taskdefs.JavacOutputStream
+4959,org.apache.tools.ant.taskdefs.Deltree
+5040,org.apache.tools.ant.taskdefs.compilers.Sj
+5082,org.apache.tools.zip.UnrecognizedExtraField
+5083,org.apache.tools.zip.AsiExtraField
+5094,org.apache.tools.ant.taskdefs.CVSPass
+5119,org.apache.tools.ant.taskdefs.optional.ejb.WLStop
+5144,org.apache.tools.ant.taskdefs.optional.depend.JarFileIterator
+5167,org.apache.tools.ant.taskdefs.optional.Script
+5330,org.apache.tools.ant.ExitException
+5331,org.apache.tools.ant.taskdefs.ExecuteJava
+5454,org.apache.tools.ant.taskdefs.rmic.RmicAdapterFactory
+5461,org.apache.tools.ant.taskdefs.optional.XslpLiaison
+5479,org.apache.tools.ant.taskdefs.optional.jlink.JlinkTask
+5510,org.apache.tools.ant.taskdefs.optional.junit.ArrayEnumeration
+5518,org.apache.tools.ant.taskdefs.optional.junit.CompoundEnumeration
+5530,org.apache.tools.ant.taskdefs.Chmod
+5819,org.apache.tools.ant.IntrospectionHelper
+5820,org.apache.tools.ant.TaskAdapter
+5821,org.apache.tools.ant.RuntimeConfigurable
+5825,org.apache.tools.ant.UnknownElement
+5841,org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter
+5900,org.apache.tools.ant.taskdefs.ManifestException
+5904,org.apache.tools.ant.taskdefs.optional.dotnet.CSharp
+6025,org.apache.tools.ant.taskdefs.optional.dotnet.NetCommand
+6036,org.apache.tools.ant.taskdefs.optional.junit.DOMUtil
+6136,org.apache.tools.ant.taskdefs.optional.perforce.P4Edit
+6144,org.apache.tools.ant.taskdefs.optional.ccm.CCMCreateTask
+6202,org.apache.tools.ant.taskdefs.Jikes
+6279,org.apache.tools.ant.XmlLogger
+6381,org.apache.tools.ant.taskdefs.optional.vss.MSVSSCHECKOUT
+6421,org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter
+6468,org.apache.tools.ant.taskdefs.rmic.KaffeRmic
+6481,org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter
+6487,org.apache.tools.ant.taskdefs.optional.depend.constantpool.DoubleCPInfo
+6494,org.apache.tools.ant.taskdefs.Patch
+6517,org.apache.tools.ant.taskdefs.compilers.Jikes
+6544,org.apache.tools.ant.taskdefs.optional.IContract
+6669,org.apache.tools.ant.taskdefs.Mkdir
+6739,org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner
+6845,org.apache.tools.ant.taskdefs.optional.ejb.DDCreatorHelper
+6876,org.apache.tools.ant.taskdefs.Tstamp
+6978,org.apache.tools.ant.taskdefs.optional.ejb.BorlandDeploymentTool
+6979,org.apache.tools.ant.taskdefs.optional.ejb.IPlanetDeploymentTool
+6980,org.apache.tools.ant.taskdefs.optional.ejb.WeblogicDeploymentTool
+6981,org.apache.tools.ant.taskdefs.optional.ejb.WeblogicTOPLinkDeploymentTool
+7040,org.apache.tools.ant.taskdefs.Zip
+7041,org.apache.tools.ant.taskdefs.Manifest
+7059,org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter
+7118,org.apache.tools.ant.taskdefs.optional.ide.VAJImport
+7200,org.apache.tools.ant.taskdefs.optional.depend.constantpool.IntegerCPInfo
+7201,org.apache.tools.ant.taskdefs.optional.depend.constantpool.StringCPInfo
+7215,org.apache.tools.ant.taskdefs.optional.clearcase.CCUpdate
+7266,org.apache.tools.ant.taskdefs.optional.ejb.WLRun
+7345,org.apache.tools.ant.taskdefs.optional.clearcase.CCUnCheckout
+7360,org.apache.tools.ant.taskdefs.optional.Cab
+7591,org.apache.tools.ant.taskdefs.optional.javacc.JavaCC
+7693,org.apache.tools.ant.taskdefs.optional.NetRexxC
+7818,org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter
+7926,org.apache.tools.ant.taskdefs.optional.ide.VAJExport
+7972,org.apache.tools.ant.taskdefs.optional.ide.VAJWorkspaceScanner
+7979,org.apache.tools.ant.taskdefs.Parallel
+8014,org.apache.tools.ant.taskdefs.Rename
+8026,org.apache.tools.ant.taskdefs.Untar
+8051,org.apache.tools.tar.TarEntry
+8052,org.apache.tools.tar.TarInputStream
+8161,org.apache.tools.ant.util.regexp.JakartaOroMatcher
+8199,org.apache.tools.ant.taskdefs.Sequential
+8207,org.apache.tools.ant.util.regexp.Jdk14RegexpMatcher
+8250,org.apache.tools.ant.taskdefs.Exit
+8268,org.apache.tools.ant.Main
+8407,org.apache.tools.ant.DemuxOutputStream
+8415,org.apache.tools.ant.taskdefs.optional.jdepend.JDependTask
+8476,org.apache.tools.ant.taskdefs.ExecuteWatchdog
+8580,org.apache.tools.ant.taskdefs.optional.net.FTP
+8750,org.apache.tools.ant.taskdefs.ConditionTask
+8769,org.apache.tools.ant.taskdefs.rmic.WLRmic
+8779,org.apache.tools.ant.taskdefs.optional.javacc.JJTree
+8980,org.apache.tools.ant.taskdefs.Copyfile
+9011,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.FieldInfo
+9017,org.apache.tools.ant.taskdefs.Replace
+9148,org.apache.tools.ant.taskdefs.optional.sitraka.StringUtil
+9223,org.apache.tools.ant.taskdefs.SendEmail
+9258,org.apache.tools.ant.taskdefs.AntStructure
+9306,org.apache.tools.ant.taskdefs.optional.net.MimeMail
+9398,org.apache.tools.ant.taskdefs.compilers.Javac13
+9408,org.apache.tools.ant.types.FileList
+9440,org.apache.tools.ant.taskdefs.SQLExec
+9612,org.apache.tools.tar.TarBuffer
+9671,org.apache.tools.ant.taskdefs.optional.StyleBook
+9703,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.Exceptions
+9704,org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.Unknown
+9811,org.apache.tools.ant.taskdefs.optional.perforce.P4Revert
+9821,org.apache.tools.ant.taskdefs.optional.perforce.P4Reopen
+9827,org.apache.tools.ant.util.FlatFileNameMapper
+9835,org.apache.tools.ant.taskdefs.optional.ide.VAJLoadProjects
+9891,org.apache.tools.ant.taskdefs.GZip
+9914,org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET
+9962,org.apache.tools.ant.taskdefs.compilers.Gcj
+10004,org.apache.tools.ant.taskdefs.optional.perforce.P4Sync
+10050,org.apache.tools.ant.taskdefs.DependSet
+10108,org.apache.tools.ant.taskdefs.optional.Javah
+10219,org.apache.tools.ant.taskdefs.compilers.Kjc
+10257,org.apache.tools.ant.taskdefs.optional.XMLValidateTask
+10570,org.apache.tools.ant.taskdefs.optional.perforce.P4Submit
+10607,org.apache.tools.ant.taskdefs.optional.perforce.P4Counter
+10850,org.apache.tools.ant.taskdefs.compilers.Javac12
+10863,org.apache.tools.ant.taskdefs.compilers.JavacExternal
+10876,org.apache.tools.ant.taskdefs.optional.ccm.CCMCheckin
+10881,org.apache.tools.ant.taskdefs.Copydir
+10905,org.apache.tools.ant.taskdefs.optional.perforce.P4Label
+10983,org.apache.tools.ant.taskdefs.optional.perforce.P4Have
+10990,org.apache.tools.ant.taskdefs.optional.XalanLiaison
+11117,org.apache.tools.ant.taskdefs.optional.junit.Xalan1Executor
+11125,org.apache.tools.ant.taskdefs.optional.junit.Xalan2Executor
+11134,org.apache.tools.ant.taskdefs.optional.junit.XalanExecutor
+11176,org.apache.tools.ant.taskdefs.optional.dotnet.Ilasm
+11240,org.apache.tools.ant.taskdefs.TaskOutputStream
+11253,org.apache.tools.ant.taskdefs.optional.ejb.Ejbc
+11578,org.apache.tools.ant.taskdefs.optional.metamata.MetricsElement
+11607,org.apache.tools.tar.TarUtils
+11653,org.apache.tools.ant.taskdefs.optional.metamata.MParse
+11760,org.apache.tools.ant.taskdefs.optional.PropertyFile
+11901,org.apache.tools.ant.taskdefs.SignJar
+12004,org.apache.tools.tar.TarOutputStream
+12069,org.apache.tools.ant.taskdefs.Exec
+12185,org.apache.tools.ant.taskdefs.rmic.SunRmic
+12190,org.apache.tools.ant.taskdefs.Taskdef
+12194,org.apache.tools.ant.taskdefs.Definer
+12339,org.apache.tools.ant.DesirableFilter
+12344,org.apache.tools.ant.taskdefs.Expand
+12384,org.apache.tools.ant.taskdefs.optional.Rpm
+12421,org.apache.tools.ant.taskdefs.Typedef
+12607,org.apache.tools.ant.taskdefs.optional.clearcase.CCCheckin
+12735,org.apache.tools.ant.taskdefs.Tar
+12824,org.apache.tools.ant.taskdefs.CompileTask
+12837,org.apache.tools.ant.taskdefs.optional.junit.JUnitTask
+13035,org.apache.tools.ant.taskdefs.Ear
+13054,org.apache.tools.ant.taskdefs.optional.metamata.MAuditStreamHandler
+13104,org.apache.tools.ant.taskdefs.optional.metamata.MAudit
+13111,org.apache.tools.ant.taskdefs.optional.scm.AntStarTeamCheckOut
+13587,org.apache.tools.ant.taskdefs.optional.vss.MSVSSHISTORY
+14250,org.apache.tools.ant.taskdefs.optional.ccm.CCMCheckout
+14515,org.apache.tools.ant.Launcher
+14607,org.apache.tools.ant.taskdefs.optional.ejb.DDCreator
+*Edges: 1118
+1129 83 4
+1129 700 7
+1129 228 4
+1129 41 2
+700 1126 1
+700 83 3
+700 2715 4
+700 42 4
+41 1125 7
+4245 2715 1
+4245 700 14
+4245 42 1
+8407 83 2
+645 41 1
+5819 1126 1
+5819 83 5
+5819 700 7
+5819 41 9
+14515 1129 7
+8268 83 5
+8268 2715 1
+8268 8407 2
+8268 41 7
+8268 3384 1
+4237 4245 2
+4237 2715 1
+4237 700 4
+83 161 2
+83 41 1
+83 158 1
+83 160 1
+1126 83 3
+3384 83 8
+3384 41 5
+3384 5820 2
+3384 5819 6
+3384 1125 1
+5821 83 1
+5821 3384 3
+2715 83 3
+2715 42 3
+2715 5821 1
+42 1126 1
+42 2715 3
+42 41 2
+42 1125 3
+42 5821 5
+5820 41 1
+5820 42 4
+5825 41 2
+5825 5820 1
+5825 5819 2
+5825 42 15
+5825 5821 6
+6279 4245 3
+6279 2715 1
+6279 1345 1
+6279 700 19
+6279 1125 1
+6279 42 2
+2674 2715 4
+2674 700 29
+2674 42 3
+3078 83 2
+3078 4245 3
+3078 2715 1
+3078 41 2
+3078 3384 1
+3078 3079 14
+3078 42 6
+9258 41 2
+9258 5819 2
+9258 42 1
+1432 1129 5
+1432 228 15
+1432 41 3
+1432 229 1
+1432 42 5
+5094 41 2
+5094 42 5
+3062 41 1
+3062 3079 1
+3062 3078 10
+3062 42 7
+5530 2467 1
+5530 159 14
+5530 81 1
+5530 4352 6
+5530 41 5
+5530 78 1
+5530 225 8
+12824 1756 1
+12824 12190 1
+12824 467 2
+12824 12194 1
+12824 42 4
+8750 2636 5
+8750 41 2
+157 41 8
+157 3634 4
+157 160 2
+157 2389 2
+157 159 3
+157 161 4
+157 645 2
+157 158 3
+157 42 8
+10881 1756 2
+10881 645 1
+10881 41 4
+10881 42 3
+8980 41 4
+8980 42 3
+2911 79 1
+2911 41 1
+2911 356 4
+2911 78 6
+2911 81 16
+2911 2966 1
+2911 2965 2
+2911 42 1
+12194 1129 6
+12194 228 7
+12194 41 5
+12194 229 1
+12194 42 9
+2398 1756 10
+2398 159 3
+2398 645 4
+2398 41 9
+2398 42 16
+4959 41 5
+4959 42 3
+10050 1756 1
+10050 159 6
+10050 645 2
+10050 41 2
+10050 9408 6
+10050 42 10
+13035 159 1
+13035 7040 3
+13035 41 2
+13035 4430 6
+13035 626 4
+13035 42 2
+4756 3384 1
+4756 1127 1
+4756 42 2
+12069 41 4
+12069 42 7
+225 8476 2
+225 81 7
+225 2966 2
+225 79 1
+225 41 7
+225 356 3
+225 78 11
+225 42 9
+78 1126 1
+78 79 1
+78 41 2
+78 83 2
+78 8476 5
+78 81 1
+78 2966 2
+78 42 4
+5331 83 1
+5331 81 4
+5331 1129 7
+5331 228 2
+5331 41 3
+4352 41 7
+4352 3634 4
+4352 1127 1
+4352 78 2
+4352 2389 4
+4352 159 3
+4352 81 5
+4352 645 6
+4352 42 4
+4352 225 5
+8250 41 2
+8250 3384 1
+8250 42 1
+12344 1756 2
+12344 645 1
+12344 2023 4
+12344 41 2
+12344 42 11
+2491 41 1
+2491 42 2
+3679 1756 2
+3679 645 1
+3679 41 13
+3679 1127 7
+3679 42 8
+4072 41 4
+4072 42 2
+9891 41 3
+9891 42 3
+3387 81 1
+3387 41 9
+3387 42 4
+3387 225 3
+4704 2023 3
+4704 41 5
+4704 42 13
+4430 7041 17
+4430 4431 3
+4430 7040 13
+4430 41 6
+4430 5900 4
+4430 626 2
+4430 42 11
+226 79 1
+226 41 6
+226 229 1
+226 5331 5
+226 270 29
+226 78 6
+226 5330 2
+226 81 2
+226 228 5
+226 2966 1
+226 42 10
+467 1756 2
+467 645 1
+467 228 31
+467 41 5
+467 2388 2
+467 229 2
+467 2390 1
+467 42 4
+467 2389 2
+4946 42 3
+3097 81 64
+3097 228 25
+3097 41 9
+3097 229 4
+3097 1127 1
+3097 42 4
+6202 83 2
+6202 2100 2
+6202 78 5
+2100 42 4
+2731 42 4
+2965 42 3
+79 2966 5
+79 2965 2
+79 42 1
+7041 41 1
+7041 5900 2
+1756 2467 1
+1756 159 13
+1756 645 1
+1756 42 3
+6669 41 3
+6669 42 2
+99 159 1
+99 161 1
+99 157 4
+99 41 6
+99 158 3
+99 42 7
+7979 41 2
+7979 42 2
+6494 81 12
+6494 79 1
+6494 41 3
+6494 78 3
+6494 42 1
+372 1126 4
+372 228 9
+372 41 7
+372 229 3
+372 42 2
+3079 1126 2
+3079 1129 1
+3079 228 7
+3079 41 3
+3079 229 5
+3079 3384 2
+3079 78 1
+3079 42 9
+2966 251 1
+3641 3672 6
+3641 1126 2
+3641 83 1
+3641 41 1
+3641 1127 2
+3641 42 1
+3672 2715 1
+3672 700 18
+3672 42 1
+8014 41 4
+8014 42 2
+9017 1756 2
+9017 645 1
+9017 41 8
+9017 42 3
+4481 1756 2
+4481 645 1
+4481 1129 1
+4481 228 15
+4481 41 4
+4481 229 1
+4481 5454 1
+4481 42 9
+4481 2389 2
+9440 41 9
+9440 229 1
+9440 1127 2
+9440 159 3
+9440 645 1
+9440 228 8
+9440 1129 3
+9440 3384 1
+9440 42 17
+9223 41 5
+9223 42 2
+9223 2530 7
+8199 42 3
+11901 159 2
+11901 645 1
+11901 41 4
+11901 42 4
+11901 225 20
+3460 41 1
+3460 42 3
+12735 1756 1
+12735 159 3
+12735 8051 5
+12735 41 9
+12735 12004 10
+12735 42 5
+12735 2389 2
+11240 42 3
+12190 12194 1
+2023 159 3
+2023 645 2
+2023 161 4
+2023 41 6
+2023 42 3
+4351 4352 1
+6876 42 1
+12421 12194 1
+8026 8052 4
+8026 8051 6
+8026 2023 3
+8026 41 4
+8026 42 10
+2665 1756 1
+2665 159 1
+2665 645 1
+2665 41 3
+2665 3634 3
+4408 159 1
+4408 7040 5
+4408 41 2
+4408 4430 6
+4408 626 8
+4408 42 1
+4254 1756 2
+4254 645 2
+4254 161 3
+4254 1129 3
+4254 228 7
+4254 41 4
+4254 229 1
+4254 42 14
+7040 1756 3
+7040 4431 16
+7040 41 13
+7040 1127 1
+7040 2389 2
+7040 646 1
+7040 159 4
+7040 645 1
+7040 626 7
+7040 42 4
+2390 41 1
+2390 42 2
+2263 1126 1
+2263 79 1
+2263 41 2
+2263 467 21
+2263 1125 1
+2263 78 6
+2263 83 1
+2263 159 6
+2263 81 33
+2263 228 29
+2263 42 3
+9962 2263 5
+9962 81 12
+9962 228 5
+9962 41 1
+9962 42 2
+10850 2263 2
+10850 81 1
+10850 41 2
+10850 2965 1
+10850 42 1
+9398 2263 2
+9398 81 1
+9398 41 1
+9398 42 1
+10863 2263 4
+10863 81 4
+10863 42 1
+6517 2263 5
+6517 81 20
+6517 228 7
+6517 467 1
+6517 42 3
+2258 2263 5
+2258 81 14
+2258 228 5
+2258 42 1
+10219 2263 4
+10219 81 13
+10219 228 4
+10219 41 2
+10219 42 1
+5040 2263 3
+5040 81 3
+5040 42 1
+2666 2636 1
+2636 2665 1
+2636 2666 1
+2636 2669 1
+2636 1432 1
+2636 2670 1
+2636 2667 1
+2636 83 3
+2636 2668 1
+2667 41 1
+2668 2636 4
+2668 41 2
+2669 2636 1
+2670 41 1
+1486 79 1
+1486 41 6
+1486 270 9
+1486 78 6
+1486 42 4
+7360 1756 2
+7360 159 2
+7360 645 2
+7360 81 11
+7360 41 5
+7360 42 8
+7360 225 6
+6544 1756 3
+6544 1126 16
+6544 226 5
+6544 41 9
+6544 6669 6
+6544 229 1
+6544 645 2
+6544 228 40
+6544 42 15
+10108 81 20
+10108 228 14
+10108 41 6
+10108 229 2
+10108 42 2
+3588 1756 2
+3588 645 1
+3588 81 7
+3588 41 6
+3588 3634 4
+3588 42 2
+3588 2389 2
+7693 1756 2
+7693 645 1
+7693 41 2
+7693 42 2
+11760 41 2
+11760 42 3
+4831 1756 1
+4831 159 1
+4831 157 5
+4831 41 1
+4831 3634 3
+4831 1127 1
+4831 42 14
+12384 81 10
+12384 2966 1
+12384 79 1
+12384 41 1
+12384 2965 2
+12384 78 5
+12384 42 2
+5167 41 2
+5167 42 1
+9671 226 8
+9671 41 3
+576 226 8
+10257 159 3
+10257 645 1
+10257 1129 3
+10257 228 7
+10257 41 4
+10257 229 1
+10257 42 5
+1285 1126 1
+1285 81 10
+1285 41 1
+1285 48 4
+10876 1285 3
+10876 48 1
+3583 1285 3
+3583 48 1
+14250 1285 2
+14250 48 1
+6144 1126 1
+6144 81 21
+6144 41 2
+6144 42 6
+6144 48 7
+656 1126 1
+656 81 9
+656 41 1
+656 48 5
+48 1126 2
+48 81 3
+48 79 1
+48 78 5
+48 42 1
+12607 4188 6
+12607 1126 1
+12607 81 17
+12607 41 1
+4129 4188 6
+4129 1126 1
+4129 81 24
+4129 41 1
+7345 4188 6
+7345 1126 1
+7345 81 8
+7345 41 1
+7215 4188 6
+7215 1126 1
+7215 81 16
+7215 41 1
+4188 1126 1
+4188 81 2
+4188 79 1
+4188 78 5
+4188 42 1
+1930 1931 2
+1930 773 3
+1930 772 1
+1930 18 7
+1782 1756 2
+1782 1126 1
+1782 41 2
+1782 229 1
+1782 1931 2
+1782 645 1
+1782 228 15
+1782 1129 2
+1782 1930 2
+1782 42 13
+4380 1930 2
+5144 1930 2
+773 772 3
+773 19 1
+773 18 1
+774 772 2
+18 772 7
+18 19 1
+18 778 2
+18 775 3
+18 773 1
+18 774 1
+18 776 3
+18 777 3
+772 4092 1
+772 7200 1
+772 19 1
+772 6487 1
+772 778 1
+772 775 1
+772 773 1
+772 776 1
+772 18 1
+772 3574 1
+772 7201 1
+772 777 1
+6487 774 4
+775 773 2
+775 772 4
+775 18 2
+775 778 3
+3574 774 4
+7200 774 4
+776 773 2
+776 772 4
+776 18 2
+776 778 3
+4092 774 4
+777 773 2
+777 772 4
+777 18 2
+777 778 3
+778 772 4
+778 19 2
+778 18 2
+7201 774 5
+7201 772 1
+7201 19 1
+7201 18 1
+19 772 2
+5904 1756 3
+5904 645 2
+5904 228 4
+5904 41 1
+5904 42 1
+5904 6025 26
+11176 1756 3
+11176 645 2
+11176 41 1
+11176 42 2
+11176 6025 13
+6025 1126 4
+6025 81 7
+6025 79 1
+6025 41 2
+6025 78 6
+6025 42 6
+6978 1126 4
+6978 1123 3
+6978 226 5
+6978 453 30
+6978 41 1
+6978 78 5
+6978 81 13
+6978 42 4
+6978 184 4
+184 1126 2
+184 226 13
+184 228 7
+184 41 1
+184 229 1
+184 42 8
+184 225 11
+14607 1756 2
+14607 226 5
+14607 645 1
+14607 228 1
+14607 41 3
+14607 42 2
+1123 42 8
+46 1756 2
+46 453 8
+46 41 4
+46 1127 7
+46 6978 1
+46 6980 1
+46 6979 1
+46 159 2
+46 441 1
+46 645 2
+46 228 4
+46 6981 1
+46 42 3
+11253 1756 2
+11253 226 5
+11253 645 1
+11253 228 1
+11253 41 4
+11253 42 2
+453 1126 3
+453 1123 8
+453 41 4
+453 1127 8
+453 1125 1
+453 159 2
+453 645 2
+453 1129 1
+453 228 7
+453 616 1
+453 42 5
+6979 453 20
+6979 228 1
+6979 41 5
+6979 2192 8
+2138 228 8
+2138 41 12
+2138 2192 5
+2138 42 2
+441 453 5
+7266 226 13
+7266 228 11
+7266 41 9
+7266 42 5
+5119 226 5
+5119 228 5
+5119 41 2
+5119 42 1
+6980 1126 6
+6980 1123 12
+6980 226 12
+6980 453 30
+6980 41 1
+6980 228 8
+6980 1129 1
+6980 42 1
+6981 6980 3
+6981 1123 2
+6981 453 3
+6981 41 1
+4199 4227 1
+4199 4226 7
+4199 41 2
+4199 4228 2
+4227 4226 16
+4227 4199 1
+4226 83 5
+4226 2715 1
+4226 3384 1
+7926 2467 7
+7926 1126 2
+7926 645 2
+7926 41 1
+7926 4228 2
+7926 7972 4
+7926 42 3
+7118 159 5
+7118 645 2
+7118 41 3
+7118 4228 5
+7118 42 4
+9835 41 2
+9835 4228 7
+9835 7972 2
+9835 42 4
+4228 41 3
+7972 645 4
+7972 4228 2
+8779 228 1
+8779 79 1
+8779 41 5
+8779 270 10
+8779 78 3
+8779 42 2
+7591 228 1
+7591 41 3
+7591 270 9
+7591 78 1
+7591 42 2
+8415 8476 2
+8415 228 17
+8415 79 1
+8415 41 7
+8415 229 1
+8415 270 9
+8415 78 5
+8415 42 8
+8415 1417 6
+469 483 1
+5479 1756 1
+5479 1126 2
+5479 228 18
+5479 41 2
+5479 42 4
+5479 1562 5
+1562 469 2
+4541 1756 2
+4541 226 6
+4541 645 1
+4541 228 8
+4541 41 3
+4541 42 6
+1348 1126 2
+1348 11134 2
+1348 1127 1
+1348 42 4
+4677 4680 1
+4642 159 2
+4642 83 2
+4642 645 2
+4642 4677 10
+4642 4678 4
+4642 4679 1
+5841 4678 7
+4679 5518 1
+4679 5510 1
+4680 41 2
+4680 1127 2
+12837 6739 1
+12837 270 1
+12837 42 1
+4678 4677 1
+6739 4680 4
+6739 1129 1
+6739 41 1
+6739 4678 10
+6421 4678 7
+7818 4678 6
+7059 1345 1
+7059 4678 8
+1320 1348 2
+1320 159 1
+1320 42 1
+11117 1348 1
+11117 11134 2
+11125 1348 1
+11125 11134 2
+11134 1348 3
+11134 41 1
+11134 42 1
+4626 159 2
+4626 645 4
+4626 228 7
+4626 41 4
+4626 270 9
+4626 78 3
+4626 42 4
+13104 228 7
+13104 79 1
+13104 41 1
+13104 13054 1
+13104 42 1
+13104 4626 5
+13054 2091 2
+13054 1126 1
+13054 13104 3
+13054 1345 1
+13054 42 2
+13054 4626 1
+4597 228 5
+4597 79 1
+4597 41 4
+4597 4628 1
+4597 4626 6
+4628 11578 10
+4628 42 3
+11653 228 9
+11653 79 1
+11653 41 5
+11653 270 9
+11653 78 3
+11653 42 2
+8580 159 4
+8580 41 21
+8580 42 27
+9306 159 2
+9306 645 2
+9306 41 7
+9306 42 6
+1679 41 4
+1679 42 1
+2902 81 8
+2902 41 1
+2902 2976 1
+2902 78 4
+2902 42 2
+2882 2902 3
+10607 2902 3
+10607 41 2
+10607 2976 1
+6136 2902 2
+6136 41 1
+6136 2976 1
+10983 2902 2
+10983 2976 1
+10905 2902 5
+10905 42 8
+9821 2902 2
+9821 41 2
+9821 2976 1
+9811 2902 2
+9811 41 1
+9811 2976 1
+10570 2902 2
+10570 41 1
+10004 2902 2
+10004 41 2
+10004 2976 1
+10004 42 1
+2976 2906 1
+2976 2902 2
+2976 41 1
+3974 1126 2
+3974 79 1
+3974 41 9
+3974 4064 2
+3974 78 5
+3974 81 27
+3974 2966 1
+3974 2965 1
+3974 42 12
+13111 42 1
+1229 1126 1
+1229 79 1
+1229 41 5
+1229 78 3
+1229 159 2
+1229 81 6
+1229 645 3
+1229 42 2
+1939 81 5
+1939 228 13
+1939 79 1
+1939 41 5
+1939 1127 2
+1939 78 3
+1939 42 5
+2770 41 4
+2770 2872 3
+2770 1127 2
+2770 270 10
+2770 78 3
+2770 2873 2
+2770 159 1
+2770 81 7
+2770 228 4
+2770 2874 4
+2770 42 4
+1224 2091 2
+1163 1224 3
+1163 42 2
+1163 1225 1
+808 861 3
+808 857 4
+808 856 4
+808 4 1
+808 773 1
+808 859 6
+808 862 1
+808 860 1
+808 18 5
+808 863 1
+808 858 6
+1225 808 1
+9011 862 4
+9011 859 6
+9011 18 2
+856 9011 6
+856 18 2
+857 773 1
+857 18 3
+861 9703 1
+861 862 5
+861 859 6
+861 533 1
+861 18 2
+861 863 3
+858 861 5
+858 18 2
+862 19 1
+862 18 2
+22 1758 1
+22 1309 1
+22 9704 1
+22 4067 1
+22 2725 1
+22 4 1
+22 9703 1
+22 2200 1
+22 533 1
+22 862 2
+22 860 1
+22 18 3
+22 863 1
+859 22 5
+859 18 2
+863 22 2
+863 859 3
+863 533 2
+863 18 1
+2200 22 2
+2200 19 1
+2200 18 2
+4067 22 2
+4067 18 1
+9703 22 2
+9703 18 1
+1309 22 2
+1309 18 1
+533 22 2
+533 18 1
+1758 22 2
+1758 19 2
+1758 18 3
+4 22 2
+4 19 1
+4 18 2
+860 22 2
+860 19 1
+860 18 2
+2725 22 2
+2725 18 1
+9704 22 2
+9704 18 1
+3966 83 1
+3966 700 11
+3936 1126 1
+3936 3966 3
+3936 42 3
+2245 81 4
+2245 79 1
+2245 78 7
+2245 42 1
+2211 81 17
+2211 228 2
+2211 41 3
+2211 2245 6
+6381 81 18
+6381 228 2
+6381 41 3
+6381 2245 6
+9914 81 22
+9914 228 2
+9914 41 3
+9914 2245 6
+13587 81 24
+13587 41 5
+13587 1127 1
+13587 2245 6
+4442 81 15
+4442 41 3
+4442 2245 6
+6481 1126 3
+6481 159 9
+6481 81 22
+6481 228 23
+6481 42 5
+6481 4481 26
+6468 81 2
+6468 41 2
+6468 6481 5
+6468 42 3
+5454 41 2
+5454 42 1
+12185 81 1
+12185 41 2
+12185 6481 6
+12185 2965 2
+12185 42 3
+8769 81 1
+8769 41 2
+8769 6481 5
+8769 42 3
+81 41 2
+270 83 1
+270 81 24
+270 228 8
+270 356 1
+2069 1126 3
+2069 83 1
+2069 41 7
+2069 229 5
+2063 2069 1
+1127 41 1
+9408 83 3
+9408 2069 10
+9408 41 3
+9408 229 2
+159 2467 16
+159 83 4
+159 2069 29
+159 645 3
+159 41 4
+159 229 2
+160 1126 1
+160 2069 13
+158 160 2
+3634 83 2
+3634 2069 19
+3634 1129 3
+3634 228 7
+3634 41 5
+3634 229 3
+228 159 3
+228 83 4
+228 2069 15
+228 645 1
+228 41 3
+228 229 3
+228 1417 3
+2467 83 7
+2467 2069 23
+2467 41 4
+2467 229 2
+2467 3384 1
+229 83 1
+229 41 2
+626 159 7
+626 2069 1
+626 41 2
+626 646 2
+646 645 3
+161 41 5
+161 158 8
+2071 2091 2
+2389 42 7
+2091 41 5
+2530 2606 3
+2530 2626 5
+8051 11607 27
+8052 8051 9
+8052 9612 10
+12004 8051 10
+12004 9612 10
+5083 516 8
+5083 599 18
+3056 5082 1
+3056 599 10
+5082 599 7
+2985 3056 5
+2985 599 3
+4431 516 35
+4431 2985 14
+4431 599 31
