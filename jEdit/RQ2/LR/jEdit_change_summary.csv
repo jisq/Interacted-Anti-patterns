@@ -1,0 +1,3 @@
+round, Attr, sigAttr,Residual.deviance, df.residual, null.deviance, df.null, AIC, iter, theta, std.err, 2loglik
+1,22,1,336.305735844136,260,369.972564837852,282,382.305735844136,17,,, 
+2,1,1,359.701222786306,281,369.972564837852,282,363.701222786306,4,,, 
