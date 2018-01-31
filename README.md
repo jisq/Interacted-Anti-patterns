@@ -1,7 +1,9 @@
 # Interacted-Anti-patterns
 
 Data for "Are Anti-patterns Coupled? An Empirical Study" (QRS'17)
-    
+
+http://ieeexplore.ieee.org/document/7272939/?arnumber=7272939
+
 Anti-patterns exist in software may bring potential risks to software quality, increasing maintenance difficulties. By conducting an 
 in-depth and comprehensive study on anti-patterns, this project aims to develop new techniques and tools to detect, prevent, and refactor 
 anti-patterns. My work focuses on the inter-relationships among multiple kinds of anti-patterns and their impact on software maintenance.
